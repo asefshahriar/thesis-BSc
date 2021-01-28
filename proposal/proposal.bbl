@@ -1,0 +1,102 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{punia_deep_2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=PS}{%
+         family={Punia},
+         familyi={P\bibinitperiod},
+         given={Sushil},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NK}{%
+         family={Nikolopoulos},
+         familyi={N\bibinitperiod},
+         given={Konstantinos},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SSP}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Surya\bibnamedelima Prakash},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MJK}{%
+         family={Madaan},
+         familyi={M\bibinitperiod},
+         given={Jitendra\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Litsiou},
+         familyi={L\bibinitperiod},
+         given={Konstantia},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{deep learning, {LSTM} networks, multi-channel, random forests,
+  retail}
+    \strng{namehash}{PSNKSSPMJKLK1}
+    \strng{fullhash}{PSNKSSPMJKLK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    This paper proposes a novel forecasting method that combines the deep
+  learning method – long short-term memory ({LSTM}) networks and random
+  forest ({RF}). The proposed method can model complex relationships of both
+  temporal and regression type which gives it an edge in accuracy over other
+  forecasting methods. We evaluated the new method on a real-world multivariate
+  dataset from a multi-channel retailer. We benchmark the forecasting
+  performance of the new proposition against neural networks, multiple
+  regression, {ARIMAX}, {LSTM} networks, and {RF}. We employed forecasting
+  performance metrics to measure bias, accuracy, and variance, and the
+  empirical evidence suggests that the new proposition is (statistically)
+  significantly better. Furthermore, our method ranks the explanatory variables
+  in terms of their relative importance. The empirical evaluations are
+  replicated for longer forecasting horizons, and online and offline channels
+  and the same conclusions hold; thus, advocating for the robustness of our
+  forecasting proposition as well as the suitability in multi-channel retail
+  demand forecasting.%
+    }
+    \verb{doi}
+    \verb 10.1080/00207543.2020.1735666
+    \endverb
+    \field{issn}{1366588X}
+    \field{note}{Publisher: Taylor and Francis Ltd.}
+    \field{number}{16}
+    \field{pages}{4964\bibrangedash 4979}
+    \field{title}{Deep learning with long short-term memory networks and random
+  forests for demand forecasting in multi-channel retail}
+    \verb{url}
+    \verb https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1735666
+    \endverb
+    \field{volume}{58}
+    \verb{file}
+    \verb Punia et al. - 2020 - Deep learning with long short-term memory netwo
+    \verb rks.pdf:/home/asefshahriar/Zotero/storage/VKG36MB4/Punia et al. - 202
+    \verb 0 - Deep learning with long short-term memory networks.pdf:applicatio
+    \verb n/pdf
+    \endverb
+    \field{journaltitle}{International Journal of Production Research}
+    \field{year}{2020}
+  \endentry
+\enddatalist
+\endinput
