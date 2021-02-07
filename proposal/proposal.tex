@@ -1,10 +1,10 @@
-\documentclass[fontsize=12pt,paper=a4]{scrartcl}
+\documentclass[fontsize=11pt,paper=a4]{scrartcl}
 % in thesis: twoside (and read section of KOMA)
 
 % enumerate* and itemize*
 \usepackage[inline]{enumitem}
 \usepackage[bottom=0.3in]{geometry}
-
+\usepackage{amsmath}
 % for 1.5 line spacing
 \usepackage{setspace}
 
@@ -23,8 +23,8 @@
    backend=bibtex,
    minalphanames=3,
    isbn=false,
-   sortcites=true,
-   sorting=anyt,
+   sortcites=false,
+   sorting=none,      %anyt,
    abbreviate=false,
    url=false,
    doi=false,
@@ -34,8 +34,8 @@
  \addbibresource{bibliography.bib}
 % for \begin{comment}
 \usepackage{verbatim}
-\newcommand{\tltle}{A Comprehensive Study of Deep Learning Techniques for Demand Forecasting}
 \newcommand{\asef}{Asef Shahriar}
+\newcommand{\tltle}{A Comprehensive Study of Deep Learning Techniques for Supply Chain Demand Forecasting}
 % in thesis: titlehead, subject, title, subtitle
 \title{Thesis Proposal: \tltle}
 \author{\asef}
@@ -67,11 +67,23 @@
                 & Department of Industrial Engineering and Management\\
                 & Khulna University of Engineering \& Technology
             \end{tabular}
+            \begin{tabular}{@{}ll}
+                Supervised by: & Md. Al Amin \\
+                & Assistant Professor\\
+                & Department of Industrial Engineering and Management\\
+                & Khulna University of Engineering \& Technology
+            \end{tabular}
          \vfill
             Signature of Author: \makebox[2.5in]{
                 \begin{minipage}[t]{150pt}
                     \vspace{-1cm}
                     \includegraphics[scale=0.15]{./signature.pdf}
+                \end{minipage}
+            }
+            Signature of Supervisor: \makebox[2.5in]{
+                \begin{minipage}[t]{150pt}
+                    %\vspace{-1cm}
+                    %\includegraphics[scale=0.15]{./signature.pdf}
                 \end{minipage}
             }
 
@@ -86,7 +98,16 @@
         \end{flushleft}
     \end{titlepage}
 \end{spacing}
-% in thesis: \tableofcontents
+
+\newpage
+\maketitle
+
+\newpage
+\begin{spacing}{1}
+    \input{nomenclature.tex}
+\end{spacing}
+\newpage
+
 
 \begin{center}
   \Large \tltle
@@ -120,8 +141,6 @@
     \input{04-results.tex}
 \end{spacing}
 
-
-\section*{References}
 \printbibliography
 
 \end{document}
