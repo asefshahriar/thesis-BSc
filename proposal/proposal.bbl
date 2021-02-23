@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
 %
 \begingroup
 \makeatletter
@@ -16,1476 +16,1121 @@
   {}
 \endgroup
 
-\datalist[entry]{none/global//global/global}
-  \entry{punia_deep_2020}{article}{}
-    \name{author}{5}{}{%
-      {{hash=PS}{%
-         family={Punia},
-         familyi={P\bibinitperiod},
-         given={Sushil},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=NK}{%
-         family={Nikolopoulos},
-         familyi={N\bibinitperiod},
-         given={Konstantinos},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=SSP}{%
-         family={Singh},
-         familyi={S\bibinitperiod},
-         given={Surya\bibnamedelima Prakash},
-         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=MJK}{%
-         family={Madaan},
-         familyi={M\bibinitperiod},
-         given={Jitendra\bibnamedelima K.},
-         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
-      }}%
-      {{hash=LK}{%
-         family={Litsiou},
-         familyi={L\bibinitperiod},
-         given={Konstantia},
-         giveni={K\bibinitperiod},
-      }}%
-    }
-    \keyw{deep learning, {LSTM} networks, multi-channel, random forests,
-  retail}
-    \strng{namehash}{PSNKSSPMJKLK1}
-    \strng{fullhash}{PSNKSSPMJKLK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    This paper proposes a novel forecasting method that combines the deep
-  learning method – long short-term memory ({LSTM}) networks and random
-  forest ({RF}). The proposed method can model complex relationships of both
-  temporal and regression type which gives it an edge in accuracy over other
-  forecasting methods. We evaluated the new method on a real-world multivariate
-  dataset from a multi-channel retailer. We benchmark the forecasting
-  performance of the new proposition against neural networks, multiple
-  regression, {ARIMAX}, {LSTM} networks, and {RF}. We employed forecasting
-  performance metrics to measure bias, accuracy, and variance, and the
-  empirical evidence suggests that the new proposition is (statistically)
-  significantly better. Furthermore, our method ranks the explanatory variables
-  in terms of their relative importance. The empirical evaluations are
-  replicated for longer forecasting horizons, and online and offline channels
-  and the same conclusions hold; thus, advocating for the robustness of our
-  forecasting proposition as well as the suitability in multi-channel retail
-  demand forecasting.%
-    }
-    \verb{doi}
-    \verb 10.1080/00207543.2020.1735666
-    \endverb
-    \field{issn}{1366588X}
-    \field{number}{16}
-    \field{pages}{4964\bibrangedash 4979}
-    \field{title}{Deep learning with long short-term memory networks and random
-  forests for demand forecasting in multi-channel retail}
-    \verb{url}
-    \verb https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1735666
-    \endverb
-    \field{volume}{58}
-    \verb{file}
-    \verb Punia et al. - 2020 - Deep learning with long short-term memory netwo
-    \verb rks.pdf:/home/asefshahriar/Zotero/storage/DLX9T5XP/Punia et al. - 202
-    \verb 0 - Deep learning with long short-term memory networks.pdf:applicatio
-    \verb n/pdf
-    \endverb
-    \field{journaltitle}{International Journal of Production Research}
-    \field{year}{2020}
-  \endentry
 
-  \entry{punia_cross-temporal_2020}{article}{}
-    \name{author}{3}{}{%
-      {{hash=PS}{%
-         family={Punia},
-         familyi={P\bibinitperiod},
-         given={Sushil},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=SSP}{%
-         family={Singh},
-         familyi={S\bibinitperiod},
-         given={Surya\bibnamedelima P.},
-         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=MJK}{%
-         family={Madaan},
-         familyi={M\bibinitperiod},
-         given={Jitendra\bibnamedelima K.},
-         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
-      }}%
-    }
-    \keyw{Cross-temporal hierarchies, Deep learning, Hierarchical forecasting,
-  Predictive analytics, Supply chain, Temporal hierarchies}
-    \strng{namehash}{PSSSPMJK1}
-    \strng{fullhash}{PSSSPMJK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Organizations require short-term up to long-run aggregated forecasts for
-  making strategic, tactical, and operational decisions for their supply chain
-  management. In supply chain forecasting, the Tt emphasis is primarily on the
-  accuracy while coherency of forecasts often gets ignored. This paper proposes
-  a novel cross-temporal forecasting framework ({CTFF}) to generate coherent
-  forecasts at all levels of a retail supply chain. A deep learning method, the
-  long-short-term-memory network, is used as the base forecasting method in the
-  {CTFF}. The performance of the {CTFF} is evaluated on point-of-sales data
-  from a large multi-channel retail supply chain. Through several performance
-  metrics and statistical tests, we conclude that forecasts from the {CTFF} are
-  significantly better than the direct forecasts. In addition, improvements are
-  significant and consistent across cross-sectional and temporal levels of a
-  supply chain. Further, it has been observed that bottom-up forecasts are more
-  accurate than top-down forecasts when point-of-sales data is used for
-  forecasting in online and offline retail supply chain.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.cie.2020.106796
-    \endverb
-    \field{issn}{03608352}
-    \field{pages}{106796}
-    \field{title}{A cross-temporal hierarchical framework and deep learning for
-  supply chain forecasting}
-    \field{volume}{149}
-    \verb{file}
-    \verb Punia et al. - 2020 - A cross-temporal hierarchical framework and dee
-    \verb p l.pdf:/home/asefshahriar/Zotero/storage/VKNLXM2B/Punia et al. - 202
-    \verb 0 - A cross-temporal hierarchical framework and deep l.pdf:applicatio
-    \verb n/pdf
-    \endverb
-    \field{journaltitle}{Computers and Industrial Engineering}
-    \field{year}{2020}
-  \endentry
-
-  \entry{carbonneau_machine_2007}{article}{}
-    \name{author}{3}{}{%
-      {{hash=CR}{%
-         family={Carbonneau},
-         familyi={C\bibinitperiod},
-         given={Real},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=VR}{%
-         family={Vahidov},
-         familyi={V\bibinitperiod},
-         given={Rustam},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=LK}{%
-         family={Laframboise},
-         familyi={L\bibinitperiod},
-         given={Kevin},
-         giveni={K\bibinitperiod},
-      }}%
-    }
-    \keyw{New machine learning, Supply chains, Support vector machine ({SVM})}
-    \strng{namehash}{CRVRLK1}
-    \strng{fullhash}{CRVRLK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Effective supply chain management is one of the key determinants of success
-  of today's businesses. However, communication patterns between participants
-  that emerge in a supply chain tend to distort the original consumer's demand
-  and create high levels of noise. In this article, we compare the performance
-  of new machine learning ({ML})-based forecasting techniques with the more
-  traditional methods. To this end we used the data from a chocolate
-  manufacturer, a toner cartridge manufacturer, as well as from the Statistics
-  Canada manufacturing survey. A representative set of traditional and
-  {ML}-based forecasting techniques have been applied to the demand data and
-  the accuracy of the methods was compared. As a group, based on ranking, the
-  average performance of the {ML} techniques does not outperform the
-  traditional approaches. However, using a support vector machine ({SVM}) that
-  is trained on multiple demand series has produced the most accurate
-  forecasts. Copyright © 2007, {IGI} Global.%
-    }
-    \verb{doi}
-    \verb 10.4018/jiit.2007100103
-    \endverb
-    \field{issn}{1548-3657}
-    \field{number}{4}
-    \field{pages}{40\bibrangedash 57}
-    \field{title}{Machine Learning-Based Demand Forecasting in Supply Chains}
-    \verb{url}
-    \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/ji
-    \verb it.2007100103
-    \endverb
-    \field{volume}{3}
-    \verb{file}
-    \verb Submitted Version:/home/asefshahriar/Zotero/storage/METPHRHN/Carbonne
-    \verb au et al. - 2007 - Machine Learning-Based Demand Forecasting in Suppl
-    \verb .pdf:application/pdf
-    \endverb
-    \field{journaltitle}{International Journal of Intelligent Information
-  Technologies}
-    \field{year}{2007}
-  \endentry
-
-  \entry{carbonneau_application_2008}{article}{}
-    \name{author}{3}{}{%
-      {{hash=CR}{%
-         family={Carbonneau},
-         familyi={C\bibinitperiod},
-         given={Real},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=LK}{%
-         family={Laframboise},
-         familyi={L\bibinitperiod},
-         given={Kevin},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=VR}{%
-         family={Vahidov},
-         familyi={V\bibinitperiod},
-         given={Rustam},
-         giveni={R\bibinitperiod},
-      }}%
-    }
-    \keyw{Supply chain management, Neural networks, Forecasting, Bullwhip
-  effect, Support vector machines}
-    \strng{namehash}{CRLKVR1}
-    \strng{fullhash}{CRLKVR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Full collaboration in supply chains is an ideal that the participant firms
-  should try to achieve. However, a number of factors hamper real progress in
-  this direction. Therefore, there is a need for forecasting demand by the
-  participants in the absence of full information about other participants'
-  demand. In this paper we investigate the applicability of advanced machine
-  learning techniques, including neural networks, recurrent neural networks,
-  and support vector machines, to forecasting distorted demand at the end of a
-  supply chain (bullwhip effect). We compare these methods with other, more
-  traditional ones, including naïve forecasting, trend, moving average, and
-  linear regression. We use two data sets for our experiments: one obtained
-  from the simulated supply chain, and another one from actual Canadian
-  Foundries orders. Our findings suggest that while recurrent neural networks
-  and support vector machines show the best performance, their forecasting
-  accuracy was not statistically significantly better than that of the
-  regression model. © 2007 Elsevier B.V. All rights reserved.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.ejor.2006.12.004
-    \endverb
-    \field{issn}{03772217}
-    \field{number}{3}
-    \field{pages}{1140\bibrangedash 1154}
-    \field{title}{Application of machine learning techniques for supply chain
-  demand forecasting}
-    \field{volume}{184}
-    \verb{file}
-    \verb Carbonneau et al. - 2008 - Application of machine learning techniques
-    \verb  for sup.pdf:/home/asefshahriar/Zotero/storage/RIFZB95R/Carbonneau et
-    \verb  al. - 2008 - Application of machine learning techniques for sup.pdf:
-    \verb application/pdf
-    \endverb
-    \field{journaltitle}{European Journal of Operational Research}
-    \field{year}{2008}
-  \endentry
-
-  \entry{cankurt_developing_2015}{article}{}
-    \name{author}{2}{}{%
-      {{hash=CS}{%
-         family={Cankurt},
-         familyi={C\bibinitperiod},
-         given={Selcuk},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=SA}{%
-         family={Subasi},
-         familyi={S\bibinitperiod},
-         given={Abdulhamit},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{CSSA1}
-    \strng{fullhash}{CSSA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    This paper proposes the deterministic generation of auxiliary variables,
-  which outline the seasonal, cyclic and trend components of the time series
-  associated with tourism demand for the machine learning models. To test the
-  contribution of the deterministically generated auxiliary variables, we have
-  employed multilayer perceptron ({MLP}) regression, and support vector
-  regression ({SVR}) models, which are the well-known state-of-art machine
-  learning models. These models are used to make multivariate tourism
-  forecasting for Turkey respected to two data sets: raw data set and data set
-  with deterministically generated auxiliary variables. The forecasting
-  performances are compared regards to these two data sets. In terms of
-  relative absolute error ({RAE}) and root relative squared error ({RRSE})
-  measurements, the proposed machine learning models have achieved
-  significantly better forecasting accuracy when the auxiliary variables have
-  been employed.%
-    }
-    \field{title}{Developing tourism demand forecasting models using machine
-  learning techniques with trend, seasonal, and cyclic components}
-    \field{volume}{33}
-    \verb{file}
-    \verb Cankurt and Subasi - 2015 - Developing tourism demand forecasting mod
-    \verb els using.pdf:/home/asefshahriar/Zotero/storage/5MC4I6S9/Cankurt and
-    \verb Subasi - 2015 - Developing tourism demand forecasting models using.pd
-    \verb f:application/pdf
-    \endverb
-    \field{day}{01}
-    \field{month}{01}
-    \field{year}{2015}
-  \endentry
-
-  \entry{bose_probabilistic_2017}{article}{}
-    \name{author}{9}{}{%
-      {{hash=BJH}{%
-         family={Böse},
-         familyi={B\bibinitperiod},
-         given={Joos-Hendrik},
-         giveni={J\bibinithyphendelim H\bibinitperiod},
-      }}%
-      {{hash=FV}{%
-         family={Flunkert},
-         familyi={F\bibinitperiod},
-         given={Valentin},
-         giveni={V\bibinitperiod},
-      }}%
-      {{hash=GJ}{%
-         family={Gasthaus},
-         familyi={G\bibinitperiod},
-         given={Jan},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=JT}{%
-         family={Januschowski},
-         familyi={J\bibinitperiod},
-         given={Tim},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=LD}{%
-         family={Lange},
-         familyi={L\bibinitperiod},
-         given={Dustin},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=SD}{%
-         family={Salinas},
-         familyi={S\bibinitperiod},
-         given={David},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=SS}{%
-         family={Schelter},
-         familyi={S\bibinitperiod},
-         given={Sebastian},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=SM}{%
-         family={Seeger},
-         familyi={S\bibinitperiod},
-         given={Matthias},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=WY}{%
-         family={Wang},
-         familyi={W\bibinitperiod},
-         given={Yuyang},
-         giveni={Y\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BJHFVGJJTLDSDSSSMWY1}
-    \strng{fullhash}{BJHFVGJJTLDSDSSSMWY1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    We present a platform built on large-scale, data-centric machine learning
-  ({ML}) approaches, whose particular focus is demand forecasting in retail. At
-  its core, this platform enables the training and application of probabilistic
-  demand forecasting models, and provides convenient abstractions and support
-  functionality for forecasting problems. The platform comprises of a complex
-  end-to-end machine learning system built on Apache Spark, which includes data
-  preprocessing, feature engineering, distributed learning, as well as
-  evaluation, experimentation and ensembling. Furthermore, it meets the demands
-  of a production system and scales to large catalogues containing millions of
-  items. We describe the challenges of building such a platform and discuss our
-  design decisions. We detail aspects on several levels of the system, such as
-  a set of general distributed learning schemes, our machinery for ensembling
-  predictions, and a high-level dataflow abstraction for modeling complex {ML}
-  pipelines. To the best of our knowledge, we are not aware of prior work on
-  real-world demand forecasting systems which rivals our approach in terms of
-  scalability.%
-    }
-    \verb{doi}
-    \verb 10.14778/3137765.3137775
-    \endverb
-    \field{issn}{2150-8097}
-    \field{number}{12}
-    \field{pages}{1694\bibrangedash 1705}
-    \field{shortjournal}{Proc. {VLDB} Endow.}
-    \field{title}{Probabilistic demand forecasting at scale}
-    \verb{url}
-    \verb https://doi.org/10.14778/3137765.3137775
-    \endverb
-    \field{volume}{10}
-    \verb{file}
-    \verb Submitted Version:/home/asefshahriar/Zotero/storage/GUUNX4UE/Böse et
-    \verb  al. - 2017 - Probabilistic demand forecasting at scale.pdf:applicati
-    \verb on/pdf
-    \endverb
-    \field{journaltitle}{Proceedings of the {VLDB} Endowment}
-    \field{day}{01}
-    \field{month}{08}
-    \field{year}{2017}
-    \field{urlday}{19}
-    \field{urlmonth}{01}
-    \field{urlyear}{2021}
-  \endentry
-
-  \entry{ke_short-term_2017}{article}{}
-    \name{author}{4}{}{%
-      {{hash=KJ}{%
-         family={Ke},
-         familyi={K\bibinitperiod},
-         given={Jintao},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=ZH}{%
-         family={Zheng},
-         familyi={Z\bibinitperiod},
-         given={Hongyu},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=YH}{%
-         family={Yang},
-         familyi={Y\bibinitperiod},
-         given={Hai},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=CXM}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Xiqun\bibnamedelima (Michael)},
-         giveni={X\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \keyw{Convolutional neural network ({CNN}), Deep learning ({DL}), Fusion
-  convolutional long short-term memory network ({FCL}-Net), Long short-term
-  memory ({LSTM}), On-demand ride services, Short-term demand forecasting}
-    \strng{namehash}{KJZHYHCXM1}
-    \strng{fullhash}{KJZHYHCXM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Short-term passenger demand forecasting is of great importance to the
-  on-demand ride service platform, which can incentivize vacant cars moving
-  from over-supply regions to over-demand regions. The spatial dependencies,
-  temporal dependencies, and exogenous dependencies need to be considered
-  simultaneously, however, which makes short-term passenger demand forecasting
-  challenging. We propose a novel deep learning ({DL}) approach, named the
-  fusion convolutional long short-term memory network ({FCL}-Net), to address
-  these three dependencies within one end-to-end learning architecture. The
-  model is stacked and fused by multiple convolutional long short-term memory
-  ({LSTM}) layers, standard {LSTM} layers, and convolutional layers. The fusion
-  of convolutional techniques and the {LSTM} network enables the proposed {DL}
-  approach to better capture the spatio-temporal characteristics and
-  correlations of explanatory variables. A tailored spatially aggregated random
-  forest is employed to rank the importance of the explanatory variables. The
-  ranking is then used for feature selection. The proposed {DL} approach is
-  applied to the short-term forecasting of passenger demand under an on-demand
-  ride service platform in Hangzhou, China. The experimental results, validated
-  on the real-world data provided by {DiDi} Chuxing, show that the {FCL}-Net
-  achieves the better predictive performance than traditional approaches
-  including both classical time-series prediction models and state-of-art
-  machine learning algorithms (e.g., artificial neural network, {XGBoost},
-  {LSTM} and {CNN}). Furthermore, the consideration of exogenous variables in
-  addition to the passenger demand itself, such as the travel time rate,
-  time-of-day, day-of-week, and weather conditions, is proven to be promising,
-  since they reduce the root mean squared error ({RMSE}) by 48.3\%. It is also
-  interesting to find that the feature selection reduces 24.4\% in the training
-  time and leads to only the 1.8\% loss in the forecasting accuracy measured by
-  {RMSE} in the proposed model. This paper is one of the first {DL} studies to
-  forecast the short-term passenger demand of an on-demand ride service
-  platform by examining the spatio-temporal correlations.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.trc.2017.10.016
-    \endverb
-    \field{issn}{0968090X}
-    \field{pages}{591\bibrangedash 608}
-    \field{title}{Short-term forecasting of passenger demand under on-demand
-  ride services: A spatio-temporal deep learning approach}
-    \field{volume}{85}
-    \verb{file}
-    \verb Submitted Version:/home/asefshahriar/Zotero/storage/85BQX3HG/Ke et al
-    \verb . - 2017 - Short-term forecasting of passenger demand under o.pdf:app
-    \verb lication/pdf
-    \endverb
-    \field{journaltitle}{Transportation Research Part C: Emerging Technologies}
-    \field{year}{2017}
-  \endentry
-
-  \entry{qiu_empirical_2017}{article}{}
-    \name{author}{4}{}{%
-      {{hash=QX}{%
-         family={Qiu},
-         familyi={Q\bibinitperiod},
-         given={Xueheng},
-         giveni={X\bibinitperiod},
-      }}%
-      {{hash=RY}{%
-         family={Ren},
-         familyi={R\bibinitperiod},
-         given={Ye},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=SPN}{%
-         family={Suganthan},
-         familyi={S\bibinitperiod},
-         given={Ponnuthurai\bibnamedelima Nagaratnam},
-         giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
-      }}%
-      {{hash=AGAJ}{%
-         family={Amaratunga},
-         familyi={A\bibinitperiod},
-         given={Gehan A.\bibnamedelima J.},
-         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
-  J\bibinitperiod},
-      }}%
-    }
-    \keyw{Deep learning, Neural networks, Time series forecasting, Empirical
-  Mode Decomposition, Ensemble method, Load demand forecasting, Random forests,
-  Support vector regression}
-    \strng{namehash}{QXRYSPNAGAJ1}
-    \strng{fullhash}{QXRYSPNAGAJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Load demand forecasting is a critical process in the planning of electric
-  utilities. An ensemble method composed of Empirical Mode Decomposition
-  ({EMD}) algorithm and deep learning approach is presented in this work. For
-  this purpose, the load demand series were first decomposed into several
-  intrinsic mode functions ({IMFs}). Then a Deep Belief Network ({DBN})
-  including two restricted Boltzmann machines ({RBMs}) was used to model each
-  of the extracted {IMFs}, so that the tendencies of these {IMFs} can be
-  accurately predicted. Finally, the prediction results of all {IMFs} can be
-  combined by either unbiased or weighted summation to obtain an aggregated
-  output for load demand. The electricity load demand data sets from Australian
-  Energy Market Operator ({AEMO}) are used to test the effectiveness of the
-  proposed {EMD}-based {DBN} approach. Simulation results demonstrated
-  attractiveness of the proposed method compared with nine forecasting
-  methods.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.asoc.2017.01.015
-    \endverb
-    \field{issn}{15684946}
-    \field{pages}{246\bibrangedash 255}
-    \field{title}{Empirical Mode Decomposition based ensemble deep learning for
-  load demand time series forecasting}
-    \field{volume}{54}
-    \verb{file}
-    \verb Qiu et al. - 2017 - Empirical Mode Decomposition based ensemble deep
-    \verb l.pdf:/home/asefshahriar/Zotero/storage/E3AAH9XA/Qiu et al. - 2017 -
-    \verb Empirical Mode Decomposition based ensemble deep l.pdf:application/pd
-    \verb f
-    \endverb
-    \field{journaltitle}{Applied Soft Computing Journal}
-    \field{year}{2017}
-  \endentry
-
-  \entry{torres_deep_2017}{inproceedings}{}
-    \name{author}{4}{}{%
-      {{hash=TJF}{%
-         family={Torres},
-         familyi={T\bibinitperiod},
-         given={J.\bibnamedelima F.},
-         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
-      }}%
-      {{hash=FAM}{%
-         family={Fernández},
-         familyi={F\bibinitperiod},
-         given={A.\bibnamedelima M.},
-         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=TA}{%
-         family={Troncoso},
-         familyi={T\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=M�F}{%
-         family={Martínez-Álvarez},
-         familyi={M\bibinithyphendelim �\bibinitperiod},
-         given={F.},
-         giveni={F\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Springer Verlag}%
-    }
-    \keyw{Deep learning, Apache spark, Forecasting, Time series}
-    \strng{namehash}{TJFFAMTAM�F1}
-    \strng{fullhash}{TJFFAMTAM�F1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    This paper presents a novel method to predict times series using deep
-  learning. In particular, the method can be used for arbitrary time horizons,
-  dividing each predicted sample into a single problem. This fact allows easy
-  parallelization and adaptation to the big data context. Deep learning
-  implementation in H2O library is used for each subprob-lem. However, H2O does
-  not permit multi-step regression, therefore the solution proposed consists in
-  splitting into h forecasting subproblems, being h the number of samples to be
-  predicted, and, each of one has been separately studied, getting the best
-  prediction model for each sub-problem. Additionally, Apache Spark is used to
-  load in memory large datasets and speed up the execution time. This
-  methodology has been tested on a real-world dataset composed of electricity
-  consumption in Spain, with a ten minute frequency sampling rate, from 2007 to
-  2016. Reported results exhibit errors less than 2\%.%
-    }
-    \field{booktitle}{Lecture Notes in Computer Science (including subseries
-  Lecture Notes in Artificial Intelligence and Lecture Notes in
-  Bioinformatics)}
-    \verb{doi}
-    \verb 10.1007/978-3-319-59773-7_21
-    \endverb
-    \field{isbn}{978-3-319-59772-0}
-    \field{pages}{203\bibrangedash 212}
-    \field{title}{Deep learning-based approach for time series forecasting with
-  application to electricity load}
-    \verb{url}
-    \verb https://link.springer.com/chapter/10.1007/978-3-319-59773-7_21
-    \endverb
-    \field{volume}{10338 {LNCS}}
-    \verb{file}
-    \verb Full Text:/home/asefshahriar/Zotero/storage/FQQZ3YGN/Torres et al. -
-    \verb 2017 - Deep learning-based approach for time series forec.pdf:applica
-    \verb tion/pdf
-    \endverb
-    \field{year}{2017}
-  \endentry
-
-  \entry{amarasinghe_deep_2017}{inproceedings}{}
-    \name{author}{3}{}{%
-      {{hash=AK}{%
-         family={Amarasinghe},
-         familyi={A\bibinitperiod},
-         given={K.},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=MDL}{%
-         family={Marino},
-         familyi={M\bibinitperiod},
-         given={D.\bibnamedelima L.},
-         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=MM}{%
-         family={Manic},
-         familyi={M\bibinitperiod},
-         given={M.},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \keyw{{ANN}, Artificial neural networks, Artificial Neural Networks,
-  benchmark data set, Building Energy, building level, Buildings, {CNN},
-  Computer architecture, convolutional neural networks, Convolutional Neural
-  Networks, Deep Learning, deep learning architectures, deep neural networks,
-  Deep Neural Networks, electricity consumption, Energy, energy load
-  forecasting, energy management, energy management systems, factored
-  restricted Boltzmann machines, {FCRBM}, Forecasting, learning (artificial
-  intelligence), load forecasting, Load forecasting, long short term memories
-  sequence-to-sequence, {LSTM} S2S, Machine learning, neural nets, power
-  consumption, power engineering computing, shallow artificial neural networks,
-  single residential customer, smart grids, smart power grids, support vector
-  machines, {SVM}}
-    \strng{namehash}{AKMDLMM1}
-    \strng{fullhash}{AKMDLMM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Smartgrids of the future promise unprecedented flexibility in energy
-  management. Therefore, accurate predictions/forecasts of energy demands
-  (loads) at individual site and aggregate level of the grid is crucial.
-  Despite extensive research, load forecasting remains to be a difficult
-  problem. This paper presents a load forecasting methodology based on deep
-  learning. Specifically, the work presented in this paper investigates the
-  effectiveness of using Convolutional Neural Networks ({CNN}) for performing
-  energy load forecasting at individual building level. The presented
-  methodology uses convolutions on historical loads. The output from the
-  convolutional operation is fed to fully connected layers together with other
-  pertinent information. The presented methodology was implemented on a
-  benchmark data set of electricity consumption for a single residential
-  customer. Results obtained from the {CNN} were compared against results
-  obtained by Long Short Term Memories {LSTM} sequence-to-sequence ({LSTM}
-  S2S), Factored Restricted Boltzmann Machines ({FCRBM}), “shallow”
-  Artificial Neural Networks ({ANN}) and Support Vector Machines ({SVM}) for
-  the same dataset. Experimental results showed that the {CNN} outperformed
-  {SVR} while producing comparable results to the {ANN} and deep learning
-  methodologies. Further testing is required to compare the performances of
-  different deep learning architectures in load forecasting.%
-    }
-    \field{booktitle}{2017 {IEEE} 26th International Symposium on Industrial
-  Electronics ({ISIE})}
-    \verb{doi}
-    \verb 10.1109/ISIE.2017.8001465
-    \endverb
-    \field{eventtitle}{2017 {IEEE} 26th International Symposium on Industrial
-  Electronics ({ISIE})}
-    \field{note}{{ISSN}: 2163-5145}
-    \field{pages}{1483\bibrangedash 1488}
-    \field{title}{Deep neural networks for energy load forecasting}
-    \verb{file}
-    \verb IEEE Xplore Abstract Record:/home/asefshahriar/Zotero/storage/QR9BNSI
-    \verb X/8001465.html:text/html
-    \endverb
-    \field{month}{06}
-    \field{year}{2017}
-  \endentry
-
-  \entry{bouktif_optimal_2018}{article}{}
-    \name{author}{4}{}{%
-      {{hash=BS}{%
-         family={Bouktif},
-         familyi={B\bibinitperiod},
-         given={Salah},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=FA}{%
-         family={Fiaz},
-         familyi={F\bibinitperiod},
-         given={Ali},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=OA}{%
-         family={Ouni},
-         familyi={O\bibinitperiod},
-         given={Ali},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=SM}{%
-         family={Serhani},
-         familyi={S\bibinitperiod},
-         given={Mohamed},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \keyw{Genetic algorithm, Deep neural networks, Feature selection, Long
-  short term memory networks, Machine learning, Short- and medium-term load
-  forecasting}
-    \strng{namehash}{BSFAOASM1}
-    \strng{fullhash}{BSFAOASM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Background: With the development of smart grids, accurate electric load
-  forecasting has become increasingly important as it can help power companies
-  in better load scheduling and reduce excessive electricity production.
-  However, developing and selecting accurate time series models is a
-  challenging task as this requires training several different models for
-  selecting the best amongst them along with substantial feature engineering to
-  derive informative features and finding optimal time lags, a commonly used
-  input features for time series models. Methods: Our approach uses machine
-  learning and a long short-term memory ({LSTM})-based neural network with
-  various configurations to construct forecasting models for short to medium
-  term aggregate load forecasting. The research solves above mentioned problems
-  by training several linear and non-linear machine learning algorithms and
-  picking the best as baseline, choosing best features using wrapper and
-  embedded feature selection methods and finally using genetic algorithm ({GA})
-  to find optimal time lags and number of layers for {LSTM} model predictive
-  performance optimization. Results: Using France metropolitan's electricity
-  consumption data as a case study, obtained results show that {LSTM} based
-  model has shown high accuracy then machine learning model that is optimized
-  with hyperparameter tuning. Using the best features, optimal lags, layers and
-  training various {LSTM} configurations further improved forecasting accuracy.
-  Conclusions: A {LSTM} model using only optimally selected time lagged
-  features captured all the characteristics of complex time series and showed
-  decreased Mean Absolute Error ({MAE}) and Root Mean Square Error ({RMSE}) for
-  medium to long range forecasting for a wider metropolitan area.%
-    }
-    \verb{doi}
-    \verb 10.3390/en11071636
-    \endverb
-    \field{issn}{1996-1073}
-    \field{number}{7}
-    \field{pages}{1636}
-    \field{title}{Optimal Deep Learning {LSTM} Model for Electric Load
-  Forecasting using Feature Selection and Genetic Algorithm: Comparison with
-  Machine Learning Approaches †}
-    \verb{url}
-    \verb http://www.mdpi.com/1996-1073/11/7/1636
-    \endverb
-    \field{volume}{11}
-    \verb{file}
-    \verb Full Text:/home/asefshahriar/Zotero/storage/FDXXKETT/Bouktif et al. -
-    \verb  2018 - Optimal Deep Learning LSTM Model for Electric Load.pdf:applic
-    \verb ation/pdf
-    \endverb
-    \field{journaltitle}{Energies}
-    \field{year}{2018}
-  \endentry
-
-  \entry{antunes_short-term_2018}{article}{}
-    \name{author}{4}{}{%
-      {{hash=AA}{%
-         family={Antunes},
-         familyi={A\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=ACA}{%
-         family={Andrade-Campos},
-         familyi={A\bibinithyphendelim C\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=SLA}{%
-         family={Sardinha-Lourenço},
-         familyi={S\bibinithyphendelim L\bibinitperiod},
-         given={A.},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=OMS}{%
-         family={Oliveira},
-         familyi={O\bibinitperiod},
-         given={M.\bibnamedelima S.},
-         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{AAACASLAOMS1}
-    \strng{fullhash}{AAACASLAOMS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Nowadays, a large number of water utilities still manage their operation on
-  the instant water demand of the network, meaning that the use of the
-  equipment is conditioned by the immediate water necessity. The water
-  reservoirs of the networks are filled using pumps that start working when the
-  water level reaches a specified minimum, stopping when it reaches a maximum
-  level. Shifting the focus to water management based on future demand allows
-  use of the equipment when energy is cheaper, taking advantage of the
-  electricity tariff in action, thus bringing significant financial savings
-  over time. Short-term water demand forecasting is a crucial step to support
-  decision making regarding the equipment operation management. For this
-  purpose, forecasting methodologies are analyzed and implemented. Several
-  machine learning methods, such as neural networks, random forests, support
-  vector machines and k-nearest neighbors, are evaluated using real data from
-  two Portuguese water utilities. Moreover, the influence of factors such as
-  weather, seasonality, amount of data used in training and forecast window is
-  also analysed. A weighted parallel strategy that gathers the advantages of
-  the different machine learning techniques is suggested. The results are
-  validated and compared with those achieved by autoregressive integrated
-  moving average ({ARIMA}) also using benchmarks.%
-    }
-    \verb{doi}
-    \verb 10.2166/hydro.2018.163
-    \endverb
-    \field{issn}{1464-7141}
-    \field{number}{6}
-    \field{pages}{1343\bibrangedash 1366}
-    \field{shortjournal}{Journal of Hydroinformatics}
-    \field{title}{Short-term water demand forecasting using machine learning
-  techniques}
-    \verb{url}
-    \verb https://doi.org/10.2166/hydro.2018.163
-    \endverb
-    \field{volume}{20}
-    \verb{file}
-    \verb Full Text PDF:/home/asefshahriar/Zotero/storage/L32V5Z8P/Antunes et a
-    \verb l. - 2018 - Short-term water demand forecasting using machine .pdf:ap
-    \verb plication/pdf
-    \endverb
-    \field{journaltitle}{Journal of Hydroinformatics}
-    \field{day}{21}
-    \field{month}{08}
-    \field{year}{2018}
-    \field{urlday}{19}
-    \field{urlmonth}{01}
-    \field{urlyear}{2021}
-  \endentry
-
-  \entry{law_tourism_2019}{article}{}
-    \name{author}{4}{}{%
-      {{hash=LR}{%
-         family={Law},
-         familyi={L\bibinitperiod},
-         given={Rob},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=LG}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Gang},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=FDKC}{%
-         family={Fong},
-         familyi={F\bibinitperiod},
-         given={Davis Ka\bibnamedelima Chio},
-         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
-  C\bibinitperiod},
-      }}%
-      {{hash=HX}{%
-         family={Han},
-         familyi={H\bibinitperiod},
-         given={Xin},
-         giveni={X\bibinitperiod},
-      }}%
-    }
-    \keyw{Deep learning, Attention mechanism, Feature engineering, Lag order,
-  Long-short-term-memory, Tourism demand forecasting}
-    \strng{namehash}{LRLGFDKCHX1}
-    \strng{fullhash}{LRLGFDKCHX1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Traditional tourism demand forecasting models may face challenges when
-  massive amounts of search intensity indices are adopted as tourism demand
-  indicators. Using a deep learning approach, this research studied the
-  framework in forecasting monthly Macau tourist arrival volumes. The empirical
-  results demonstrated that the deep learning approach significantly
-  outperforms support vector regression and artificial neural network models.
-  Moreover, the construction and identification of highly relevant features
-  from the proposed deep network architecture provide practitioners with a
-  means of understanding the relationships between various tourist demand
-  forecasting factors and tourist arrival volumes. This article also launches
-  the Annals of Tourism Research Curated Collection on Tourism Demand
-  Forecasting, a special selection of research in this field%
-    }
-    \verb{doi}
-    \verb 10.1016/j.annals.2019.01.014
-    \endverb
-    \field{issn}{01607383}
-    \field{pages}{410\bibrangedash 423}
-    \field{title}{Tourism demand forecasting: A deep learning approach}
-    \field{volume}{75}
-    \verb{file}
-    \verb Law et al. - 2019 - Tourism demand forecasting A deep learning approa
-    \verb .pdf:/home/asefshahriar/Zotero/storage/MWF2NXXV/Law et al. - 2019 - T
-    \verb ourism demand forecasting A deep learning approa.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Annals of Tourism Research}
-    \field{year}{2019}
-  \endentry
-
-  \entry{zhang_tourism_2020}{article}{}
-    \name{author}{4}{}{%
-      {{hash=ZY}{%
-         family={Zhang},
-         familyi={Z\bibinitperiod},
-         given={Yishuo},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=LG}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Gang},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=MB}{%
-         family={Muskat},
-         familyi={M\bibinitperiod},
-         given={Birgit},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=LR}{%
-         family={Law},
-         familyi={L\bibinitperiod},
-         given={Rob},
-         giveni={R\bibinitperiod},
-      }}%
-    }
-    \keyw{deep learning, {AI}-based forecasting, decomposing method,
-  overfitting, tourism demand forecasting, tourism planning}
-    \strng{namehash}{ZYLGMBLR1}
-    \strng{fullhash}{ZYLGMBLR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    {\textbackslash}textlessp{\textbackslash}{textgreaterTourism} planners rely
-  on accurate demand forecasting. However, despite numerous advancements,
-  crucial methodological issues remain unaddressed. This study aims to further
-  improve the modeling accuracy and advance the artificial intelligence
-  ({AI})-based tourism demand forecasting methods. Deep learning models that
-  predict tourism demand are often highly complex and encounter overfitting,
-  which is mainly caused by two underlying problems: (1) access to limited data
-  volumes and (2) additional explanatory variable requirement. To address these
-  issues, we use a decomposition method that achieves high accuracy in short-
-  and long-term {AI}-based forecasting models. The proposed method effectively
-  decomposes the data and increases accuracy without additional data
-  requirement. In conclusion, this study alleviates the overfitting issue and
-  provides a methodological contribution by proposing a highly accurate deep
-  learning method for {AI}-based tourism demand
-  modeling.{\textbackslash}textless/p{\textbackslash}textgreater%
-    }
-    \verb{doi}
-    \verb 10.1177/0047287520919522
-    \endverb
-    \field{issn}{0047-2875}
-    \field{pages}{004728752091952}
-    \field{title}{Tourism Demand Forecasting: A Decomposed Deep Learning
-  Approach}
-    \verb{url}
-    \verb http://journals.sagepub.com/doi/10.1177/0047287520919522
-    \endverb
-    \verb{file}
-    \verb Submitted Version:/home/asefshahriar/Zotero/storage/HHRLMVDP/Zhang et
-    \verb  al. - 2020 - Tourism Demand Forecasting A Decomposed Deep Lear.pdf:a
-    \verb pplication/pdf
-    \endverb
-    \field{journaltitle}{Journal of Travel Research}
-    \field{year}{2020}
-  \endentry
-
-  \entry{bandara_sales_2019}{inproceedings}{}
-    \name{author}{6}{}{%
-      {{hash=BK}{%
-         family={Bandara},
-         familyi={B\bibinitperiod},
-         given={Kasun},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=SP}{%
-         family={Shi},
-         familyi={S\bibinitperiod},
-         given={Peibei},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=BC}{%
-         family={Bergmeir},
-         familyi={B\bibinitperiod},
-         given={Christoph},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=HH}{%
-         family={Hewamalage},
-         familyi={H\bibinitperiod},
-         given={Hansika},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=TQ}{%
-         family={Tran},
-         familyi={T\bibinitperiod},
-         given={Quoc},
-         giveni={Q\bibinitperiod},
-      }}%
-      {{hash=SB}{%
-         family={Seaman},
-         familyi={S\bibinitperiod},
-         given={Brian},
-         giveni={B\bibinitperiod},
-      }}%
-    }
-    \name{editor}{3}{}{%
-      {{hash=GT}{%
-         family={Gedeon},
-         familyi={G\bibinitperiod},
-         given={Tom},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=WKW}{%
-         family={Wong},
-         familyi={W\bibinitperiod},
-         given={Kok\bibnamedelima Wai},
-         giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-      {{hash=LM}{%
-         family={Lee},
-         familyi={L\bibinitperiod},
-         given={Minho},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Springer International Publishing}%
-    }
-    \keyw{Demand forecasting, Time series, E-commerce, {LSTM}}
-    \strng{namehash}{BKSPBCHHTQSB1}
-    \strng{fullhash}{BKSPBCHHTQSB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Generating accurate and reliable sales forecasts is crucial in the
-  E-commerce business. The current state-of-the-art techniques are typically
-  univariate methods, which produce forecasts considering only the historical
-  sales data of a single product. However, in a situation where large
-  quantities of related time series are available, conditioning the forecast of
-  an individual time series on past behaviour of similar, related time series
-  can be beneficial. Since the product assortment hierarchy in an E-commerce
-  platform contains large numbers of related products, in which the sales
-  demand patterns can be correlated, our attempt is to incorporate this
-  cross-series information in a unified model. We achieve this by globally
-  training a Long Short-Term Memory network ({LSTM}) that exploits the
-  non-linear demand relationships available in an E-commerce product assortment
-  hierarchy. Aside from the forecasting framework, we also propose a systematic
-  pre-processing framework to overcome the challenges in the E-commerce
-  business. We also introduce several product grouping strategies to supplement
-  the {LSTM} learning schemes, in situations where sales patterns in a product
-  portfolio are disparate. We empirically evaluate the proposed forecasting
-  framework on a real-world online marketplace dataset from Walmart.com. Our
-  method achieves competitive results on category level and super-departmental
-  level datasets, outperforming state-of-the-art techniques.%
-    }
-    \field{booktitle}{Neural Information Processing}
-    \verb{doi}
-    \verb 10.1007/978-3-030-36718-3_39
-    \endverb
-    \field{isbn}{978-3-030-36718-3}
-    \field{note}{event-place: Cham}
-    \field{pages}{462\bibrangedash 474}
-    \field{series}{Lecture Notes in Computer Science}
-    \field{title}{Sales Demand Forecast in E-commerce Using a Long Short-Term
-  Memory Neural Network Methodology}
-    \verb{file}
-    \verb Submitted Version:/home/asefshahriar/Zotero/storage/HCJEQXIN/Bandara
-    \verb et al. - 2019 - Sales Demand Forecast in E-commerce Using a Long S.pd
-    \verb f:application/pdf
-    \endverb
-    \field{year}{2019}
-  \endentry
-
-  \entry{seyedan_predictive_2020}{article}{}
-    \name{author}{2}{}{%
-      {{hash=SM}{%
-         family={Seyedan},
-         familyi={S\bibinitperiod},
-         given={Mahya},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=MF}{%
-         family={Mafakheri},
-         familyi={M\bibinitperiod},
-         given={Fereshteh},
-         giveni={F\bibinitperiod},
-      }}%
-    }
-    \keyw{Big data analytics, Closed-loop supply chains, Demand forecasting,
-  Machine-learning, Supply chain management}
-    \strng{namehash}{SMMF1}
-    \strng{fullhash}{SMMF1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Big data analytics ({BDA}) in supply chain management ({SCM}) is receiving
-  a growing attention. This is due to the fact that {BDA} has a wide range of
-  applications in {SCM}, including customer behavior analysis, trend analysis,
-  and demand prediction. In this survey, we investigate the predictive {BDA}
-  applications in supply chain demand forecasting to propose a classification
-  of these applications, identify the gaps, and provide insights for future
-  research. We classify these algorithms and their applications in supply chain
-  management into time-series forecasting, clustering, K-nearest-neighbors,
-  neural networks, regression analysis, support vector machines, and support
-  vector regression. This survey also points to the fact that the literature is
-  particularly lacking on the applications of {BDA} for demand forecasting in
-  the case of closed-loop supply chains ({CLSCs}) and accordingly highlights
-  avenues for future research.%
-    }
-    \verb{doi}
-    \verb 10.1186/s40537-020-00329-2
-    \endverb
-    \field{issn}{21961115}
-    \field{number}{1}
-    \field{pages}{1\bibrangedash 22}
-    \field{title}{Predictive big data analytics for supply chain demand
-  forecasting: methods, applications, and research opportunities}
-    \verb{url}
-    \verb https://doi.org/10.1186/s40537-020-00329-2
-    \endverb
-    \field{volume}{7}
-    \verb{file}
-    \verb Full Text:/home/asefshahriar/Zotero/storage/SK4ZKZ7K/Seyedan and Mafa
-    \verb kheri - 2020 - Predictive big data analytics for supply chain dem.pdf
-    \verb :application/pdf
-    \endverb
-    \field{journaltitle}{Journal of Big Data}
-    \field{year}{2020}
-  \endentry
-
-  \entry{liao_large-scale_2018}{inproceedings}{}
-    \name{author}{5}{}{%
-      {{hash=LS}{%
-         family={Liao},
-         familyi={L\bibinitperiod},
-         given={Siyu},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=ZL}{%
-         family={Zhou},
-         familyi={Z\bibinitperiod},
-         given={Liutong},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=DX}{%
-         family={Di},
-         familyi={D\bibinitperiod},
-         given={Xuan},
-         giveni={X\bibinitperiod},
-      }}%
-      {{hash=YB}{%
-         family={Yuan},
-         familyi={Y\bibinitperiod},
-         given={Bo},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=XJ}{%
-         family={Xiong},
-         familyi={X\bibinitperiod},
-         given={Jinjun},
-         giveni={J\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{2}{%
-      {Institute of Electrical}%
-      {Electronics Engineers Inc.}%
-    }
-    \strng{namehash}{LSZLDXYBXJ1}
-    \strng{fullhash}{LSZLDXYBXJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    The world has seen in recent years great successes in applying deep
-  learning ({DL}) for many application domains. Though powerful, {DL} is not
-  easy to be used well. In this invited paper, we study an urban taxi demand
-  forecast problem using {DL}, and we show a number of key insights in modeling
-  a domain problem as a suitable {DL} task. We also conduct a systematic
-  comparison of two recent deep neural networks ({DNNs}) for taxi demand
-  prediction, i.s., the {ST}-{ResNet} and {FLC}-Net, on New York city taxi
-  record dataset. Our experimental results show {DNNs} indeed outperform most
-  traditional machine learning techniques, but such superior results can only
-  be achieved with proper design of the right {DNN} architecture, where domain
-  knowledge plays a key role.%
-    }
-    \field{booktitle}{Proceedings of the Asia and South Pacific Design
-  Automation Conference, {ASP}-{DAC}}
-    \verb{doi}
-    \verb 10.1109/ASPDAC.2018.8297361
-    \endverb
-    \field{isbn}{978-1-5090-0602-1}
-    \field{pages}{428\bibrangedash 433}
-    \field{title}{Large-scale short-term urban taxi demand forecasting using
-  deep learning}
-    \field{volume}{2018-January}
-    \field{year}{2018}
-  \endentry
-
-  \entry{shi_deep_2018}{article}{}
-    \name{author}{3}{}{%
-      {{hash=SH}{%
-         family={Shi},
-         familyi={S\bibinitperiod},
-         given={Heng},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=XM}{%
-         family={Xu},
-         familyi={X\bibinitperiod},
-         given={Minghao},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=LR}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Ran},
-         giveni={R\bibinitperiod},
-      }}%
-    }
-    \keyw{deep learning, Big data, load forecasting, long short-Term memory,
-  machine learning, neural network, smart meter}
-    \strng{namehash}{SHXMLR1}
-    \strng{fullhash}{SHXMLR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    The key challenge for household load forecasting lies in the high
-  volatility and uncertainty of load profiles. Traditional methods tend to
-  avoid such uncertainty by load aggregation (to offset uncertainties),
-  customer classification (to cluster uncertainties) and spectral analysis (to
-  filter out uncertainties). This paper, for the first time, aims to directly
-  learn the uncertainty by applying a new breed of machine learning
-  algorithms-deep learning. However, simply adding layers in neural networks
-  will cap the forecasting performance due to the occurrence of over-fitting. A
-  novel pooling-based deep recurrent neural network is proposed in this paper
-  which batches a group of customers' load profiles into a pool of inputs.
-  Essentially the model could address the over-fitting issue by increasing data
-  diversity and volume. This paper reports the first attempts to develop a
-  bespoke deep learning application for household load forecasting and achieved
-  preliminary success. The developed method is implemented on Tensorflow deep
-  learning platform and tested on 920 smart metered customers from Ireland.
-  Compared with the state-of-The-Art techniques in household load forecasting,
-  the proposed method outperforms {ARIMA} by 19.5\%, {SVR} by 13.1\% and
-  classical deep {RNN} by 6.5\% in terms of {RMSE}.%
-    }
-    \verb{doi}
-    \verb 10.1109/TSG.2017.2686012
-    \endverb
-    \field{issn}{19493053}
-    \field{number}{5}
-    \field{pages}{5271\bibrangedash 5280}
-    \field{title}{Deep Learning for Household Load Forecasting-A Novel Pooling
-  Deep {RNN}}
-    \field{volume}{9}
-    \verb{file}
-    \verb Shi et al. - 2018 - Deep Learning for Household Load Forecasting-A No
-    \verb v.pdf:/home/asefshahriar/Zotero/storage/2IUJVNAL/Shi et al. - 2018 -
-    \verb Deep Learning for Household Load Forecasting-A Nov.pdf:application/pd
-    \verb f
-    \endverb
-    \field{journaltitle}{{IEEE} Transactions on Smart Grid}
-    \field{year}{2018}
-  \endentry
-
-  \entry{cai_day-ahead_2019}{article}{}
-    \name{author}{3}{}{%
-      {{hash=CM}{%
-         family={Cai},
-         familyi={C\bibinitperiod},
-         given={Mengmeng},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=PM}{%
-         family={Pipattanasomporn},
-         familyi={P\bibinitperiod},
-         given={Manisa},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=RS}{%
-         family={Rahman},
-         familyi={R\bibinitperiod},
-         given={Saifur},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \keyw{Deep learning, Gating mechanism, Seasonal {ARIMAX}, Time-series
-  building-level load forecasts}
-    \strng{namehash}{CMPMRS1}
-    \strng{fullhash}{CMPMRS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Load forecasting problems have traditionally been addressed using various
-  statistical methods, among which autoregressive integrated moving average
-  with exogenous inputs ({ARIMAX}) has gained the most attention as a classical
-  time-series modeling method. Recently, the booming development of deep
-  learning techniques make them promising alternatives to conventional
-  data-driven approaches. While deep learning offers exceptional capability in
-  handling complex non-linear relationships, model complexity and computation
-  efficiency are of concern. A few papers have explored the possibility of
-  applying deep neural networks to forecast time-series load data but only
-  limited to system-level or single-step building-level forecasting. This
-  study, however, aims at filling in the knowledge gap of deep learning-based
-  techniques for day-ahead multi-step load forecasting in commercial buildings.
-  Two classical deep neural network models, namely recurrent neural network
-  ({RNN}) and convolutional neural network ({CNN}), have been proposed and
-  formulated under both recursive and direct multi-step manners. Their
-  performances are compared with the Seasonal {ARIMAX} model with regard to
-  accuracy, computational efficiency, generalizability and robustness. Among
-  all of the investigated deep learning techniques, the gated 24-h {CNN} model,
-  performed in a direct multi-step manner, proves itself to have the best
-  performance, improving the forecasting accuracy by 22.6\% compared to that of
-  the seasonal {ARIMAX}.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.apenergy.2018.12.042
-    \endverb
-    \field{issn}{03062619}
-    \field{pages}{1078\bibrangedash 1088}
-    \field{title}{Day-ahead building-level load forecasts using deep learning
-  vs. traditional time-series techniques}
-    \field{volume}{236}
-    \field{journaltitle}{Applied Energy}
-    \field{year}{2019}
-  \endentry
-
-  \entry{huber_daily_2020}{article}{}
-    \name{author}{2}{}{%
-      {{hash=HJ}{%
-         family={Huber},
-         familyi={H\bibinitperiod},
-         given={Jakob},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=SH}{%
-         family={Stuckenschmidt},
-         familyi={S\bibinitperiod},
-         given={Heiner},
-         giveni={H\bibinitperiod},
-      }}%
-    }
-    \keyw{Demand forecasting, Classification, Comparative studies, Decision
-  trees, Forecasting practice, Neural networks, Regression}
-    \strng{namehash}{HJSH1}
-    \strng{fullhash}{HJSH1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{abstract}{%
-    Demand forecasting is an important task for retailers as it is required for
-  various operational decisions. One key challenge is to forecast demand on
-  special days that are subject to vastly different demand patterns than on
-  regular days. We present the case of a bakery chain with an emphasis on
-  special calendar days, for which we address the problem of forecasting the
-  daily demand for different product categories at the store level. Such
-  forecasts are an input for production and ordering decisions. We treat the
-  forecasting problem as a supervised machine learning task and provide an
-  evaluation of different methods, including artificial neural networks and
-  gradient-boosted decision trees. In particular, we outline and discuss the
-  possibility of formulating a classification instead of a regression problem.
-  An empirical comparison with established approaches reveals the superiority
-  of machine learning methods, while classification-based approaches outperform
-  regression-based approaches. We also found that machine learning methods not
-  only provide more accurate forecasts but are also more suitable for
-  applications in a large-scale demand forecasting scenario that often occurs
-  in the retail industry.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.ijforecast.2020.02.005
-    \endverb
-    \field{issn}{01692070}
-    \field{number}{4}
-    \field{pages}{1420\bibrangedash 1438}
-    \field{title}{Daily retail demand forecasting using machine learning with
-  emphasis on calendric special days}
-    \field{volume}{36}
-    \verb{file}
-    \verb Huber and Stuckenschmidt - 2020 - Daily retail demand forecasting usi
-    \verb ng machine lear.pdf:/home/asefshahriar/Zotero/storage/UPPYFISK/Huber
-    \verb and Stuckenschmidt - 2020 - Daily retail demand forecasting using mac
-    \verb hine lear.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{International Journal of Forecasting}
-    \field{year}{2020}
-  \endentry
-
-  \entry{kotsiantis2006data}{article}{}
-    \name{author}{3}{}{%
-      {{hash=KSB}{%
-         family={Kotsiantis},
-         familyi={K\bibinitperiod},
-         given={Sotiris\bibnamedelima B},
-         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-      {{hash=KD}{%
-         family={Kanellopoulos},
-         familyi={K\bibinitperiod},
-         given={Dimitris},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=PPE}{%
-         family={Pintelas},
-         familyi={P\bibinitperiod},
-         given={Panagiotis\bibnamedelima E},
-         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Citeseer}%
-    }
-    \strng{namehash}{KSBKDPPE1}
-    \strng{fullhash}{KSBKDPPE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{number}{2}
-    \field{pages}{111\bibrangedash 117}
-    \field{title}{Data preprocessing for supervised leaning}
-    \field{volume}{1}
-    \field{journaltitle}{International Journal of Computer Science}
-    \field{year}{2006}
-  \endentry
-\enddatalist
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{punia_deep_2020}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f47e6839937f04a4cb0e9598fd39403c}{%
+           family={Punia},
+           familyi={P\bibinitperiod},
+           given={Sushil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=10fdf01556b8158a0de2cf0700e66358}{%
+           family={Nikolopoulos},
+           familyi={N\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4cfec5e2c7d89601152101ba70916112}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Surya\bibnamedelima Prakash},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e695907eb010481f2c705ffd57327e8b}{%
+           family={Madaan},
+           familyi={M\bibinitperiod},
+           given={Jitendra\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b9fbdbe80f6a6e1fe40dcb01c8638b61}{%
+           family={Litsiou},
+           familyi={L\bibinitperiod},
+           given={Konstantia},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cda914c4a1cda77c5b7c888e8770a675}
+      \strng{fullhash}{cda914c4a1cda77c5b7c888e8770a675}
+      \strng{bibnamehash}{cda914c4a1cda77c5b7c888e8770a675}
+      \strng{authorbibnamehash}{cda914c4a1cda77c5b7c888e8770a675}
+      \strng{authornamehash}{cda914c4a1cda77c5b7c888e8770a675}
+      \strng{authorfullhash}{cda914c4a1cda77c5b7c888e8770a675}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper proposes a novel forecasting method that combines the deep learning method – long short-term memory ({LSTM}) networks and random forest ({RF}). The proposed method can model complex relationships of both temporal and regression type which gives it an edge in accuracy over other forecasting methods. We evaluated the new method on a real-world multivariate dataset from a multi-channel retailer. We benchmark the forecasting performance of the new proposition against neural networks, multiple regression, {ARIMAX}, {LSTM} networks, and {RF}. We employed forecasting performance metrics to measure bias, accuracy, and variance, and the empirical evidence suggests that the new proposition is (statistically) significantly better. Furthermore, our method ranks the explanatory variables in terms of their relative importance. The empirical evaluations are replicated for longer forecasting horizons, and online and offline channels and the same conclusions hold; thus, advocating for the robustness of our forecasting proposition as well as the suitability in multi-channel retail demand forecasting.}
+      \field{issn}{1366588X}
+      \field{journaltitle}{International Journal of Production Research}
+      \field{number}{16}
+      \field{title}{Deep learning with long short-term memory networks and random forests for demand forecasting in multi-channel retail}
+      \field{volume}{58}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{4964\bibrangedash 4979}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/00207543.2020.1735666
+      \endverb
+      \verb{file}
+      \verb Punia et al. - 2020 - Deep learning with long short-term memory networks.pdf:/home/asefshahriar/Zotero/storage/DLX9T5XP/Punia et al. - 2020 - Deep learning with long short-term memory networks.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1735666
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/00207543.2020.1735666
+      \endverb
+      \keyw{deep learning,{LSTM} networks,multi-channel,random forests,retail}
+    \endentry
+    \entry{punia_cross-temporal_2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f47e6839937f04a4cb0e9598fd39403c}{%
+           family={Punia},
+           familyi={P\bibinitperiod},
+           given={Sushil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=07eadbf4f1fa45ffa5e06b3aba0466c2}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Surya\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e695907eb010481f2c705ffd57327e8b}{%
+           family={Madaan},
+           familyi={M\bibinitperiod},
+           given={Jitendra\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{11fa5baeee8a17e4b5c41fffaff17fa9}
+      \strng{fullhash}{11fa5baeee8a17e4b5c41fffaff17fa9}
+      \strng{bibnamehash}{11fa5baeee8a17e4b5c41fffaff17fa9}
+      \strng{authorbibnamehash}{11fa5baeee8a17e4b5c41fffaff17fa9}
+      \strng{authornamehash}{11fa5baeee8a17e4b5c41fffaff17fa9}
+      \strng{authorfullhash}{11fa5baeee8a17e4b5c41fffaff17fa9}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Organizations require short-term up to long-run aggregated forecasts for making strategic, tactical, and operational decisions for their supply chain management. In supply chain forecasting, the Tt emphasis is primarily on the accuracy while coherency of forecasts often gets ignored. This paper proposes a novel cross-temporal forecasting framework ({CTFF}) to generate coherent forecasts at all levels of a retail supply chain. A deep learning method, the long-short-term-memory network, is used as the base forecasting method in the {CTFF}. The performance of the {CTFF} is evaluated on point-of-sales data from a large multi-channel retail supply chain. Through several performance metrics and statistical tests, we conclude that forecasts from the {CTFF} are significantly better than the direct forecasts. In addition, improvements are significant and consistent across cross-sectional and temporal levels of a supply chain. Further, it has been observed that bottom-up forecasts are more accurate than top-down forecasts when point-of-sales data is used for forecasting in online and offline retail supply chain.}
+      \field{issn}{03608352}
+      \field{journaltitle}{Computers and Industrial Engineering}
+      \field{title}{A cross-temporal hierarchical framework and deep learning for supply chain forecasting}
+      \field{volume}{149}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{106796}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cie.2020.106796
+      \endverb
+      \verb{file}
+      \verb Punia et al. - 2020 - A cross-temporal hierarchical framework and deep l.pdf:/home/asefshahriar/Zotero/storage/VKNLXM2B/Punia et al. - 2020 - A cross-temporal hierarchical framework and deep l.pdf:application/pdf
+      \endverb
+      \keyw{Cross-temporal hierarchies,Deep learning,Hierarchical forecasting,Predictive analytics,Supply chain,Temporal hierarchies}
+    \endentry
+    \entry{carbonneau_machine_2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6ab3152a9902cf928eec34539b62656f}{%
+           family={Carbonneau},
+           familyi={C\bibinitperiod},
+           given={Real},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fe1dc2468a96d7a251a2c465251a3eff}{%
+           family={Vahidov},
+           familyi={V\bibinitperiod},
+           given={Rustam},
+           giveni={R\bibinitperiod}}}%
+        {{hash=29de43d8a9ce8ac94f8b12643372b9af}{%
+           family={Laframboise},
+           familyi={L\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{46f9b060c99cd885a02ae2785130eaae}
+      \strng{fullhash}{46f9b060c99cd885a02ae2785130eaae}
+      \strng{bibnamehash}{46f9b060c99cd885a02ae2785130eaae}
+      \strng{authorbibnamehash}{46f9b060c99cd885a02ae2785130eaae}
+      \strng{authornamehash}{46f9b060c99cd885a02ae2785130eaae}
+      \strng{authorfullhash}{46f9b060c99cd885a02ae2785130eaae}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Effective supply chain management is one of the key determinants of success of today's businesses. However, communication patterns between participants that emerge in a supply chain tend to distort the original consumer's demand and create high levels of noise. In this article, we compare the performance of new machine learning ({ML})-based forecasting techniques with the more traditional methods. To this end we used the data from a chocolate manufacturer, a toner cartridge manufacturer, as well as from the Statistics Canada manufacturing survey. A representative set of traditional and {ML}-based forecasting techniques have been applied to the demand data and the accuracy of the methods was compared. As a group, based on ranking, the average performance of the {ML} techniques does not outperform the traditional approaches. However, using a support vector machine ({SVM}) that is trained on multiple demand series has produced the most accurate forecasts. Copyright © 2007, {IGI} Global.}
+      \field{issn}{1548-3657}
+      \field{journaltitle}{International Journal of Intelligent Information Technologies}
+      \field{number}{4}
+      \field{title}{Machine Learning-Based Demand Forecasting in Supply Chains}
+      \field{volume}{3}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{40\bibrangedash 57}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.4018/jiit.2007100103
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/asefshahriar/Zotero/storage/METPHRHN/Carbonneau et al. - 2007 - Machine Learning-Based Demand Forecasting in Suppl.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jiit.2007100103
+      \endverb
+      \verb{url}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jiit.2007100103
+      \endverb
+      \keyw{New machine learning,Supply chains,Support vector machine ({SVM})}
+    \endentry
+    \entry{carbonneau_application_2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6ab3152a9902cf928eec34539b62656f}{%
+           family={Carbonneau},
+           familyi={C\bibinitperiod},
+           given={Real},
+           giveni={R\bibinitperiod}}}%
+        {{hash=29de43d8a9ce8ac94f8b12643372b9af}{%
+           family={Laframboise},
+           familyi={L\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fe1dc2468a96d7a251a2c465251a3eff}{%
+           family={Vahidov},
+           familyi={V\bibinitperiod},
+           given={Rustam},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f399f0d3b366c3b388cdb55af068ab6b}
+      \strng{fullhash}{f399f0d3b366c3b388cdb55af068ab6b}
+      \strng{bibnamehash}{f399f0d3b366c3b388cdb55af068ab6b}
+      \strng{authorbibnamehash}{f399f0d3b366c3b388cdb55af068ab6b}
+      \strng{authornamehash}{f399f0d3b366c3b388cdb55af068ab6b}
+      \strng{authorfullhash}{f399f0d3b366c3b388cdb55af068ab6b}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Full collaboration in supply chains is an ideal that the participant firms should try to achieve. However, a number of factors hamper real progress in this direction. Therefore, there is a need for forecasting demand by the participants in the absence of full information about other participants' demand. In this paper we investigate the applicability of advanced machine learning techniques, including neural networks, recurrent neural networks, and support vector machines, to forecasting distorted demand at the end of a supply chain (bullwhip effect). We compare these methods with other, more traditional ones, including naïve forecasting, trend, moving average, and linear regression. We use two data sets for our experiments: one obtained from the simulated supply chain, and another one from actual Canadian Foundries orders. Our findings suggest that while recurrent neural networks and support vector machines show the best performance, their forecasting accuracy was not statistically significantly better than that of the regression model. © 2007 Elsevier B.V. All rights reserved.}
+      \field{issn}{03772217}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{3}
+      \field{title}{Application of machine learning techniques for supply chain demand forecasting}
+      \field{volume}{184}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{1140\bibrangedash 1154}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2006.12.004
+      \endverb
+      \verb{file}
+      \verb Carbonneau et al. - 2008 - Application of machine learning techniques for sup.pdf:/home/asefshahriar/Zotero/storage/RIFZB95R/Carbonneau et al. - 2008 - Application of machine learning techniques for sup.pdf:application/pdf
+      \endverb
+      \keyw{Supply chain management,Neural networks,Forecasting,Bullwhip effect,Support vector machines}
+    \endentry
+    \entry{cankurt_developing_2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3c9066db11eb9e3ecf2b89a4755e8980}{%
+           family={Cankurt},
+           familyi={C\bibinitperiod},
+           given={Selcuk},
+           giveni={S\bibinitperiod}}}%
+        {{hash=df62088ec6e2d9d75fe0e637ddca4696}{%
+           family={Subasi},
+           familyi={S\bibinitperiod},
+           given={Abdulhamit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{042ad28ed68f8d9aece6496ce2abe14c}
+      \strng{fullhash}{042ad28ed68f8d9aece6496ce2abe14c}
+      \strng{bibnamehash}{042ad28ed68f8d9aece6496ce2abe14c}
+      \strng{authorbibnamehash}{042ad28ed68f8d9aece6496ce2abe14c}
+      \strng{authornamehash}{042ad28ed68f8d9aece6496ce2abe14c}
+      \strng{authorfullhash}{042ad28ed68f8d9aece6496ce2abe14c}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper proposes the deterministic generation of auxiliary variables, which outline the seasonal, cyclic and trend components of the time series associated with tourism demand for the machine learning models. To test the contribution of the deterministically generated auxiliary variables, we have employed multilayer perceptron ({MLP}) regression, and support vector regression ({SVR}) models, which are the well-known state-of-art machine learning models. These models are used to make multivariate tourism forecasting for Turkey respected to two data sets: raw data set and data set with deterministically generated auxiliary variables. The forecasting performances are compared regards to these two data sets. In terms of relative absolute error ({RAE}) and root relative squared error ({RRSE}) measurements, the proposed machine learning models have achieved significantly better forecasting accuracy when the auxiliary variables have been employed.}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Developing tourism demand forecasting models using machine learning techniques with trend, seasonal, and cyclic components}
+      \field{volume}{33}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Cankurt and Subasi - 2015 - Developing tourism demand forecasting models using.pdf:/home/asefshahriar/Zotero/storage/5MC4I6S9/Cankurt and Subasi - 2015 - Developing tourism demand forecasting models using.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{bose_probabilistic_2017}{article}{}
+      \name{author}{9}{}{%
+        {{hash=f42b89ed5428ca9d3cb872bf474acacf}{%
+           family={Böse},
+           familyi={B\bibinitperiod},
+           given={Joos-Hendrik},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=f059e30caa4d74f8c23070b22386b22e}{%
+           family={Flunkert},
+           familyi={F\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=b41e883686c590f0b90bb2f7d488f6cc}{%
+           family={Gasthaus},
+           familyi={G\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e5ccec71d72e905905574627253f5f7}{%
+           family={Januschowski},
+           familyi={J\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1a81f8132c2c28eb62183c57468cc2f1}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eada397e5f4a2602534e0917e03112c3}{%
+           family={Salinas},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=aeae02e4c44c27f16026280dbe8190b4}{%
+           family={Schelter},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9f881b2bdd82b01b43c0b7a6f9dd3208}{%
+           family={Seeger},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a9292a8838878275e725f037bc757f7e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuyang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb6069c0aea37418d1b374766b052de5}
+      \strng{fullhash}{bb6069c0aea37418d1b374766b052de5}
+      \strng{bibnamehash}{bb6069c0aea37418d1b374766b052de5}
+      \strng{authorbibnamehash}{bb6069c0aea37418d1b374766b052de5}
+      \strng{authornamehash}{bb6069c0aea37418d1b374766b052de5}
+      \strng{authorfullhash}{bb6069c0aea37418d1b374766b052de5}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a platform built on large-scale, data-centric machine learning ({ML}) approaches, whose particular focus is demand forecasting in retail. At its core, this platform enables the training and application of probabilistic demand forecasting models, and provides convenient abstractions and support functionality for forecasting problems. The platform comprises of a complex end-to-end machine learning system built on Apache Spark, which includes data preprocessing, feature engineering, distributed learning, as well as evaluation, experimentation and ensembling. Furthermore, it meets the demands of a production system and scales to large catalogues containing millions of items. We describe the challenges of building such a platform and discuss our design decisions. We detail aspects on several levels of the system, such as a set of general distributed learning schemes, our machinery for ensembling predictions, and a high-level dataflow abstraction for modeling complex {ML} pipelines. To the best of our knowledge, we are not aware of prior work on real-world demand forecasting systems which rivals our approach in terms of scalability.}
+      \field{day}{1}
+      \field{issn}{2150-8097}
+      \field{journaltitle}{Proceedings of the {VLDB} Endowment}
+      \field{month}{8}
+      \field{number}{12}
+      \field{shortjournal}{Proc. {VLDB} Endow.}
+      \field{title}{Probabilistic demand forecasting at scale}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2021}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1694\bibrangedash 1705}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.14778/3137765.3137775
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/asefshahriar/Zotero/storage/GUUNX4UE/Böse et al. - 2017 - Probabilistic demand forecasting at scale.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.14778/3137765.3137775
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.14778/3137765.3137775
+      \endverb
+    \endentry
+    \entry{ke_short-term_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2f738d76727a286a870a59b94af7c322}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Jintao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=189fa613e4bcd451b03fd24652ffd4af}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Hongyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=255ee237fcf578055552d8fce6c93b9d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Hai},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5677e3bffba68afd082a05d62a4bd659}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiqun\bibnamedelima (Michael)},
+           giveni={X\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+      }
+      \strng{namehash}{497be4b2e707d604f3ab3950362a3841}
+      \strng{fullhash}{497be4b2e707d604f3ab3950362a3841}
+      \strng{bibnamehash}{497be4b2e707d604f3ab3950362a3841}
+      \strng{authorbibnamehash}{497be4b2e707d604f3ab3950362a3841}
+      \strng{authornamehash}{497be4b2e707d604f3ab3950362a3841}
+      \strng{authorfullhash}{497be4b2e707d604f3ab3950362a3841}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Short-term passenger demand forecasting is of great importance to the on-demand ride service platform, which can incentivize vacant cars moving from over-supply regions to over-demand regions. The spatial dependencies, temporal dependencies, and exogenous dependencies need to be considered simultaneously, however, which makes short-term passenger demand forecasting challenging. We propose a novel deep learning ({DL}) approach, named the fusion convolutional long short-term memory network ({FCL}-Net), to address these three dependencies within one end-to-end learning architecture. The model is stacked and fused by multiple convolutional long short-term memory ({LSTM}) layers, standard {LSTM} layers, and convolutional layers. The fusion of convolutional techniques and the {LSTM} network enables the proposed {DL} approach to better capture the spatio-temporal characteristics and correlations of explanatory variables. A tailored spatially aggregated random forest is employed to rank the importance of the explanatory variables. The ranking is then used for feature selection. The proposed {DL} approach is applied to the short-term forecasting of passenger demand under an on-demand ride service platform in Hangzhou, China. The experimental results, validated on the real-world data provided by {DiDi} Chuxing, show that the {FCL}-Net achieves the better predictive performance than traditional approaches including both classical time-series prediction models and state-of-art machine learning algorithms (e.g., artificial neural network, {XGBoost}, {LSTM} and {CNN}). Furthermore, the consideration of exogenous variables in addition to the passenger demand itself, such as the travel time rate, time-of-day, day-of-week, and weather conditions, is proven to be promising, since they reduce the root mean squared error ({RMSE}) by 48.3\%. It is also interesting to find that the feature selection reduces 24.4\% in the training time and leads to only the 1.8\% loss in the forecasting accuracy measured by {RMSE} in the proposed model. This paper is one of the first {DL} studies to forecast the short-term passenger demand of an on-demand ride service platform by examining the spatio-temporal correlations.}
+      \field{issn}{0968090X}
+      \field{journaltitle}{Transportation Research Part C: Emerging Technologies}
+      \field{title}{Short-term forecasting of passenger demand under on-demand ride services: A spatio-temporal deep learning approach}
+      \field{volume}{85}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{591\bibrangedash 608}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.trc.2017.10.016
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/asefshahriar/Zotero/storage/85BQX3HG/Ke et al. - 2017 - Short-term forecasting of passenger demand under o.pdf:application/pdf
+      \endverb
+      \keyw{Convolutional neural network ({CNN}),Deep learning ({DL}),Fusion convolutional long short-term memory network ({FCL}-Net),Long short-term memory ({LSTM}),On-demand ride services,Short-term demand forecasting}
+    \endentry
+    \entry{qiu_empirical_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8435bcd65425817d79334a177f9a2c22}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Xueheng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e04d1bb5ea9774dff099866c0c4642c0}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d94afbc27d84d6e232201b6f0b6938ca}{%
+           family={Suganthan},
+           familyi={S\bibinitperiod},
+           given={Ponnuthurai\bibnamedelima Nagaratnam},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=24e8ec33d65d00dc61b2091f615a6744}{%
+           family={Amaratunga},
+           familyi={A\bibinitperiod},
+           given={Gehan\bibnamedelimb A.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a349e65b14c8c2fe97499f7f01ce79f}
+      \strng{fullhash}{5a349e65b14c8c2fe97499f7f01ce79f}
+      \strng{bibnamehash}{5a349e65b14c8c2fe97499f7f01ce79f}
+      \strng{authorbibnamehash}{5a349e65b14c8c2fe97499f7f01ce79f}
+      \strng{authornamehash}{5a349e65b14c8c2fe97499f7f01ce79f}
+      \strng{authorfullhash}{5a349e65b14c8c2fe97499f7f01ce79f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Load demand forecasting is a critical process in the planning of electric utilities. An ensemble method composed of Empirical Mode Decomposition ({EMD}) algorithm and deep learning approach is presented in this work. For this purpose, the load demand series were first decomposed into several intrinsic mode functions ({IMFs}). Then a Deep Belief Network ({DBN}) including two restricted Boltzmann machines ({RBMs}) was used to model each of the extracted {IMFs}, so that the tendencies of these {IMFs} can be accurately predicted. Finally, the prediction results of all {IMFs} can be combined by either unbiased or weighted summation to obtain an aggregated output for load demand. The electricity load demand data sets from Australian Energy Market Operator ({AEMO}) are used to test the effectiveness of the proposed {EMD}-based {DBN} approach. Simulation results demonstrated attractiveness of the proposed method compared with nine forecasting methods.}
+      \field{issn}{15684946}
+      \field{journaltitle}{Applied Soft Computing Journal}
+      \field{title}{Empirical Mode Decomposition based ensemble deep learning for load demand time series forecasting}
+      \field{volume}{54}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{246\bibrangedash 255}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.asoc.2017.01.015
+      \endverb
+      \verb{file}
+      \verb Qiu et al. - 2017 - Empirical Mode Decomposition based ensemble deep l.pdf:/home/asefshahriar/Zotero/storage/E3AAH9XA/Qiu et al. - 2017 - Empirical Mode Decomposition based ensemble deep l.pdf:application/pdf
+      \endverb
+      \keyw{Deep learning,Neural networks,Time series forecasting,Empirical Mode Decomposition,Ensemble method,Load demand forecasting,Random forests,Support vector regression}
+    \endentry
+    \entry{torres_deep_2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c1711461c4207641a130bba18bd013c6}{%
+           family={Torres},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=69410643abf423bda70088fd0b65f41d}{%
+           family={Fernández},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3bbd64695652ab661178298d4d5c4ac6}{%
+           family={Troncoso},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=73df6325af54121b0b92260fce1ccf91}{%
+           family={Martínez-Álvarez},
+           familyi={M\bibinithyphendelim Á\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{7def7f1b0bab9ef33bce176d35028240}
+      \strng{fullhash}{7def7f1b0bab9ef33bce176d35028240}
+      \strng{bibnamehash}{7def7f1b0bab9ef33bce176d35028240}
+      \strng{authorbibnamehash}{7def7f1b0bab9ef33bce176d35028240}
+      \strng{authornamehash}{7def7f1b0bab9ef33bce176d35028240}
+      \strng{authorfullhash}{7def7f1b0bab9ef33bce176d35028240}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a novel method to predict times series using deep learning. In particular, the method can be used for arbitrary time horizons, dividing each predicted sample into a single problem. This fact allows easy parallelization and adaptation to the big data context. Deep learning implementation in H2O library is used for each subprob-lem. However, H2O does not permit multi-step regression, therefore the solution proposed consists in splitting into h forecasting subproblems, being h the number of samples to be predicted, and, each of one has been separately studied, getting the best prediction model for each sub-problem. Additionally, Apache Spark is used to load in memory large datasets and speed up the execution time. This methodology has been tested on a real-world dataset composed of electricity consumption in Spain, with a ten minute frequency sampling rate, from 2007 to 2016. Reported results exhibit errors less than 2\%.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{978-3-319-59772-0}
+      \field{title}{Deep learning-based approach for time series forecasting with application to electricity load}
+      \field{volume}{10338 {LNCS}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{203\bibrangedash 212}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-319-59773-7_21
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/asefshahriar/Zotero/storage/FQQZ3YGN/Torres et al. - 2017 - Deep learning-based approach for time series forec.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/978-3-319-59773-7_21
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/978-3-319-59773-7_21
+      \endverb
+      \keyw{Deep learning,Apache spark,Forecasting,Time series}
+    \endentry
+    \entry{amarasinghe_deep_2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=091adba3fdc432bb8ef0dc49b68d0589}{%
+           family={Amarasinghe},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4f37022725c5a21d7d612530a0e383eb}{%
+           family={Marino},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=72b3cba4542f3ce5172ed4bbdf45ec78}{%
+           family={Manic},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b04f6d0aba4afc576b3862a24601fea}
+      \strng{fullhash}{9b04f6d0aba4afc576b3862a24601fea}
+      \strng{bibnamehash}{9b04f6d0aba4afc576b3862a24601fea}
+      \strng{authorbibnamehash}{9b04f6d0aba4afc576b3862a24601fea}
+      \strng{authornamehash}{9b04f6d0aba4afc576b3862a24601fea}
+      \strng{authorfullhash}{9b04f6d0aba4afc576b3862a24601fea}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Smartgrids of the future promise unprecedented flexibility in energy management. Therefore, accurate predictions/forecasts of energy demands (loads) at individual site and aggregate level of the grid is crucial. Despite extensive research, load forecasting remains to be a difficult problem. This paper presents a load forecasting methodology based on deep learning. Specifically, the work presented in this paper investigates the effectiveness of using Convolutional Neural Networks ({CNN}) for performing energy load forecasting at individual building level. The presented methodology uses convolutions on historical loads. The output from the convolutional operation is fed to fully connected layers together with other pertinent information. The presented methodology was implemented on a benchmark data set of electricity consumption for a single residential customer. Results obtained from the {CNN} were compared against results obtained by Long Short Term Memories {LSTM} sequence-to-sequence ({LSTM} S2S), Factored Restricted Boltzmann Machines ({FCRBM}), “shallow” Artificial Neural Networks ({ANN}) and Support Vector Machines ({SVM}) for the same dataset. Experimental results showed that the {CNN} outperformed {SVR} while producing comparable results to the {ANN} and deep learning methodologies. Further testing is required to compare the performances of different deep learning architectures in load forecasting.}
+      \field{booktitle}{2017 {IEEE} 26th International Symposium on Industrial Electronics ({ISIE})}
+      \field{eventtitle}{2017 {IEEE} 26th International Symposium on Industrial Electronics ({ISIE})}
+      \field{month}{6}
+      \field{note}{{ISSN}: 2163-5145}
+      \field{title}{Deep neural networks for energy load forecasting}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1483\bibrangedash 1488}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ISIE.2017.8001465
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/asefshahriar/Zotero/storage/QR9BNSIX/8001465.html:text/html
+      \endverb
+      \keyw{{ANN},Artificial neural networks,Artificial Neural Networks,benchmark data set,Building Energy,building level,Buildings,{CNN},Computer architecture,convolutional neural networks,Convolutional Neural Networks,Deep Learning,deep learning architectures,deep neural networks,Deep Neural Networks,electricity consumption,Energy,energy load forecasting,energy management,energy management systems,factored restricted Boltzmann machines,{FCRBM},Forecasting,learning (artificial intelligence),load forecasting,Load forecasting,long short term memories sequence-to-sequence,{LSTM} S2S,Machine learning,neural nets,power consumption,power engineering computing,shallow artificial neural networks,single residential customer,smart grids,smart power grids,support vector machines,{SVM}}
+    \endentry
+    \entry{bouktif_optimal_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f9cf4c0c454c76d4ca9bc5f2a3073b9}{%
+           family={Bouktif},
+           familyi={B\bibinitperiod},
+           given={Salah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5a687c0c32b7c8b0840ca2185133d0fa}{%
+           family={Fiaz},
+           familyi={F\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d5e038ab5b739b52966db4d9998f760b}{%
+           family={Ouni},
+           familyi={O\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3ed189b4462e950dec768c452a9143e1}{%
+           family={Serhani},
+           familyi={S\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d58cd6cda47436ecda198e2b957f1b4}
+      \strng{fullhash}{3d58cd6cda47436ecda198e2b957f1b4}
+      \strng{bibnamehash}{3d58cd6cda47436ecda198e2b957f1b4}
+      \strng{authorbibnamehash}{3d58cd6cda47436ecda198e2b957f1b4}
+      \strng{authornamehash}{3d58cd6cda47436ecda198e2b957f1b4}
+      \strng{authorfullhash}{3d58cd6cda47436ecda198e2b957f1b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: With the development of smart grids, accurate electric load forecasting has become increasingly important as it can help power companies in better load scheduling and reduce excessive electricity production. However, developing and selecting accurate time series models is a challenging task as this requires training several different models for selecting the best amongst them along with substantial feature engineering to derive informative features and finding optimal time lags, a commonly used input features for time series models. Methods: Our approach uses machine learning and a long short-term memory ({LSTM})-based neural network with various configurations to construct forecasting models for short to medium term aggregate load forecasting. The research solves above mentioned problems by training several linear and non-linear machine learning algorithms and picking the best as baseline, choosing best features using wrapper and embedded feature selection methods and finally using genetic algorithm ({GA}) to find optimal time lags and number of layers for {LSTM} model predictive performance optimization. Results: Using France metropolitan's electricity consumption data as a case study, obtained results show that {LSTM} based model has shown high accuracy then machine learning model that is optimized with hyperparameter tuning. Using the best features, optimal lags, layers and training various {LSTM} configurations further improved forecasting accuracy. Conclusions: A {LSTM} model using only optimally selected time lagged features captured all the characteristics of complex time series and showed decreased Mean Absolute Error ({MAE}) and Root Mean Square Error ({RMSE}) for medium to long range forecasting for a wider metropolitan area.}
+      \field{issn}{1996-1073}
+      \field{journaltitle}{Energies}
+      \field{number}{7}
+      \field{title}{Optimal Deep Learning {LSTM} Model for Electric Load Forecasting using Feature Selection and Genetic Algorithm: Comparison with Machine Learning Approaches †}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{1636}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/en11071636
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/asefshahriar/Zotero/storage/FDXXKETT/Bouktif et al. - 2018 - Optimal Deep Learning LSTM Model for Electric Load.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/1996-1073/11/7/1636
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/1996-1073/11/7/1636
+      \endverb
+      \keyw{Genetic algorithm,Deep neural networks,Feature selection,Long short term memory networks,Machine learning,Short- and medium-term load forecasting}
+    \endentry
+    \entry{antunes_short-term_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1312f1cdbb725bd64e2a2e92a596ed56}{%
+           family={Antunes},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6edd4ec9ce98ba8e7bf76746ad505743}{%
+           family={Andrade-Campos},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=84389032c2bebb150fa697b964c21f90}{%
+           family={Sardinha-Lourenço},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=14ed3671d2a8f52c403a4cb8167b1e49}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{45c72bd516177e11450ec8091c290cb2}
+      \strng{fullhash}{45c72bd516177e11450ec8091c290cb2}
+      \strng{bibnamehash}{45c72bd516177e11450ec8091c290cb2}
+      \strng{authorbibnamehash}{45c72bd516177e11450ec8091c290cb2}
+      \strng{authornamehash}{45c72bd516177e11450ec8091c290cb2}
+      \strng{authorfullhash}{45c72bd516177e11450ec8091c290cb2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nowadays, a large number of water utilities still manage their operation on the instant water demand of the network, meaning that the use of the equipment is conditioned by the immediate water necessity. The water reservoirs of the networks are filled using pumps that start working when the water level reaches a specified minimum, stopping when it reaches a maximum level. Shifting the focus to water management based on future demand allows use of the equipment when energy is cheaper, taking advantage of the electricity tariff in action, thus bringing significant financial savings over time. Short-term water demand forecasting is a crucial step to support decision making regarding the equipment operation management. For this purpose, forecasting methodologies are analyzed and implemented. Several machine learning methods, such as neural networks, random forests, support vector machines and k-nearest neighbors, are evaluated using real data from two Portuguese water utilities. Moreover, the influence of factors such as weather, seasonality, amount of data used in training and forecast window is also analysed. A weighted parallel strategy that gathers the advantages of the different machine learning techniques is suggested. The results are validated and compared with those achieved by autoregressive integrated moving average ({ARIMA}) also using benchmarks.}
+      \field{day}{21}
+      \field{issn}{1464-7141}
+      \field{journaltitle}{Journal of Hydroinformatics}
+      \field{month}{8}
+      \field{number}{6}
+      \field{shortjournal}{Journal of Hydroinformatics}
+      \field{title}{Short-term water demand forecasting using machine learning techniques}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2021}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1343\bibrangedash 1366}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.2166/hydro.2018.163
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/asefshahriar/Zotero/storage/L32V5Z8P/Antunes et al. - 2018 - Short-term water demand forecasting using machine .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2166/hydro.2018.163
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2166/hydro.2018.163
+      \endverb
+    \endentry
+    \entry{law_tourism_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=80c3fd59847468e74adcee84537e8d51}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=56ba559f18e74cf681fe113aba3fa9af}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=02c85ce5dfc4722173b3339c86c3c790}{%
+           family={Fong},
+           familyi={F\bibinitperiod},
+           given={Davis\bibnamedelimb Ka\bibnamedelima Chio},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fa011ffd82f1be2d300cd32886c1d4f3}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{d47d614b86dd1847b7ddda99641ea2f2}
+      \strng{fullhash}{d47d614b86dd1847b7ddda99641ea2f2}
+      \strng{bibnamehash}{d47d614b86dd1847b7ddda99641ea2f2}
+      \strng{authorbibnamehash}{d47d614b86dd1847b7ddda99641ea2f2}
+      \strng{authornamehash}{d47d614b86dd1847b7ddda99641ea2f2}
+      \strng{authorfullhash}{d47d614b86dd1847b7ddda99641ea2f2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Traditional tourism demand forecasting models may face challenges when massive amounts of search intensity indices are adopted as tourism demand indicators. Using a deep learning approach, this research studied the framework in forecasting monthly Macau tourist arrival volumes. The empirical results demonstrated that the deep learning approach significantly outperforms support vector regression and artificial neural network models. Moreover, the construction and identification of highly relevant features from the proposed deep network architecture provide practitioners with a means of understanding the relationships between various tourist demand forecasting factors and tourist arrival volumes. This article also launches the Annals of Tourism Research Curated Collection on Tourism Demand Forecasting, a special selection of research in this field}
+      \field{issn}{01607383}
+      \field{journaltitle}{Annals of Tourism Research}
+      \field{title}{Tourism demand forecasting: A deep learning approach}
+      \field{volume}{75}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{410\bibrangedash 423}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.annals.2019.01.014
+      \endverb
+      \verb{file}
+      \verb Law et al. - 2019 - Tourism demand forecasting A deep learning approa.pdf:/home/asefshahriar/Zotero/storage/MWF2NXXV/Law et al. - 2019 - Tourism demand forecasting A deep learning approa.pdf:application/pdf
+      \endverb
+      \keyw{Deep learning,Attention mechanism,Feature engineering,Lag order,Long-short-term-memory,Tourism demand forecasting}
+    \endentry
+    \entry{zhang_tourism_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0664a61a61832b10b11b0037646967c6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yishuo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=56ba559f18e74cf681fe113aba3fa9af}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=908326cfbe6874bdf75f1ea582e5deba}{%
+           family={Muskat},
+           familyi={M\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=80c3fd59847468e74adcee84537e8d51}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9045dca186ea045a9583b5fe49fc6a0e}
+      \strng{fullhash}{9045dca186ea045a9583b5fe49fc6a0e}
+      \strng{bibnamehash}{9045dca186ea045a9583b5fe49fc6a0e}
+      \strng{authorbibnamehash}{9045dca186ea045a9583b5fe49fc6a0e}
+      \strng{authornamehash}{9045dca186ea045a9583b5fe49fc6a0e}
+      \strng{authorfullhash}{9045dca186ea045a9583b5fe49fc6a0e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{\textbackslash}textlessp{\textbackslash}{textgreaterTourism} planners rely on accurate demand forecasting. However, despite numerous advancements, crucial methodological issues remain unaddressed. This study aims to further improve the modeling accuracy and advance the artificial intelligence ({AI})-based tourism demand forecasting methods. Deep learning models that predict tourism demand are often highly complex and encounter overfitting, which is mainly caused by two underlying problems: (1) access to limited data volumes and (2) additional explanatory variable requirement. To address these issues, we use a decomposition method that achieves high accuracy in short- and long-term {AI}-based forecasting models. The proposed method effectively decomposes the data and increases accuracy without additional data requirement. In conclusion, this study alleviates the overfitting issue and provides a methodological contribution by proposing a highly accurate deep learning method for {AI}-based tourism demand modeling.{\textbackslash}textless/p{\textbackslash}textgreater}
+      \field{issn}{0047-2875}
+      \field{journaltitle}{Journal of Travel Research}
+      \field{title}{Tourism Demand Forecasting: A Decomposed Deep Learning Approach}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{004728752091952}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/0047287520919522
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/asefshahriar/Zotero/storage/HHRLMVDP/Zhang et al. - 2020 - Tourism Demand Forecasting A Decomposed Deep Lear.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0047287520919522
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0047287520919522
+      \endverb
+      \keyw{deep learning,{AI}-based forecasting,decomposing method,overfitting,tourism demand forecasting,tourism planning}
+    \endentry
+    \entry{bandara_sales_2019}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=d2ea33f311ab7e75395d319cf5cb988d}{%
+           family={Bandara},
+           familyi={B\bibinitperiod},
+           given={Kasun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4a62aed506bde634ffb0f1d55b157a12}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Peibei},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fb7be81f0574878d688bb03f0abb8502}{%
+           family={Bergmeir},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bcedb4c1d2a852d41022a05e63751bf9}{%
+           family={Hewamalage},
+           familyi={H\bibinitperiod},
+           given={Hansika},
+           giveni={H\bibinitperiod}}}%
+        {{hash=56e52182e7812601216df8f6eed3f93c}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Quoc},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=f3eec6014388ee7e81ceaef42951353e}{%
+           family={Seaman},
+           familyi={S\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=10119f2caec5b455dd4f22a9f97dd1e6}{%
+           family={Gedeon},
+           familyi={G\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e200a397874518e4390e1b1cc0a9750f}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Kok\bibnamedelima Wai},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=bff450ebd68aa9d233c17814c8db428d}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Minho},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{9f272fb95e38da8233f4f5304194fe90}
+      \strng{fullhash}{9f272fb95e38da8233f4f5304194fe90}
+      \strng{bibnamehash}{9f272fb95e38da8233f4f5304194fe90}
+      \strng{authorbibnamehash}{9f272fb95e38da8233f4f5304194fe90}
+      \strng{authornamehash}{9f272fb95e38da8233f4f5304194fe90}
+      \strng{authorfullhash}{9f272fb95e38da8233f4f5304194fe90}
+      \strng{editorbibnamehash}{5539321e57999f43527b2934ecf27f12}
+      \strng{editornamehash}{5539321e57999f43527b2934ecf27f12}
+      \strng{editorfullhash}{5539321e57999f43527b2934ecf27f12}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Generating accurate and reliable sales forecasts is crucial in the E-commerce business. The current state-of-the-art techniques are typically univariate methods, which produce forecasts considering only the historical sales data of a single product. However, in a situation where large quantities of related time series are available, conditioning the forecast of an individual time series on past behaviour of similar, related time series can be beneficial. Since the product assortment hierarchy in an E-commerce platform contains large numbers of related products, in which the sales demand patterns can be correlated, our attempt is to incorporate this cross-series information in a unified model. We achieve this by globally training a Long Short-Term Memory network ({LSTM}) that exploits the non-linear demand relationships available in an E-commerce product assortment hierarchy. Aside from the forecasting framework, we also propose a systematic pre-processing framework to overcome the challenges in the E-commerce business. We also introduce several product grouping strategies to supplement the {LSTM} learning schemes, in situations where sales patterns in a product portfolio are disparate. We empirically evaluate the proposed forecasting framework on a real-world online marketplace dataset from Walmart.com. Our method achieves competitive results on category level and super-departmental level datasets, outperforming state-of-the-art techniques.}
+      \field{booktitle}{Neural Information Processing}
+      \field{isbn}{978-3-030-36718-3}
+      \field{note}{event-place: Cham}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Sales Demand Forecast in E-commerce Using a Long Short-Term Memory Neural Network Methodology}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{462\bibrangedash 474}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-030-36718-3_39
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/asefshahriar/Zotero/storage/HCJEQXIN/Bandara et al. - 2019 - Sales Demand Forecast in E-commerce Using a Long S.pdf:application/pdf
+      \endverb
+      \keyw{Demand forecasting,Time series,E-commerce,{LSTM}}
+    \endentry
+    \entry{seyedan_predictive_2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d93dee7e005e40cb79aaa8e65a0dc567}{%
+           family={Seyedan},
+           familyi={S\bibinitperiod},
+           given={Mahya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5fe8a7520c8e5c5fa6c24b4e7c0fb603}{%
+           family={Mafakheri},
+           familyi={M\bibinitperiod},
+           given={Fereshteh},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{91afb612d4f1a012f9717353c492baed}
+      \strng{fullhash}{91afb612d4f1a012f9717353c492baed}
+      \strng{bibnamehash}{91afb612d4f1a012f9717353c492baed}
+      \strng{authorbibnamehash}{91afb612d4f1a012f9717353c492baed}
+      \strng{authornamehash}{91afb612d4f1a012f9717353c492baed}
+      \strng{authorfullhash}{91afb612d4f1a012f9717353c492baed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Big data analytics ({BDA}) in supply chain management ({SCM}) is receiving a growing attention. This is due to the fact that {BDA} has a wide range of applications in {SCM}, including customer behavior analysis, trend analysis, and demand prediction. In this survey, we investigate the predictive {BDA} applications in supply chain demand forecasting to propose a classification of these applications, identify the gaps, and provide insights for future research. We classify these algorithms and their applications in supply chain management into time-series forecasting, clustering, K-nearest-neighbors, neural networks, regression analysis, support vector machines, and support vector regression. This survey also points to the fact that the literature is particularly lacking on the applications of {BDA} for demand forecasting in the case of closed-loop supply chains ({CLSCs}) and accordingly highlights avenues for future research.}
+      \field{issn}{21961115}
+      \field{journaltitle}{Journal of Big Data}
+      \field{number}{1}
+      \field{title}{Predictive big data analytics for supply chain demand forecasting: methods, applications, and research opportunities}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1186/s40537-020-00329-2
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/asefshahriar/Zotero/storage/SK4ZKZ7K/Seyedan and Mafakheri - 2020 - Predictive big data analytics for supply chain dem.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s40537-020-00329-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s40537-020-00329-2
+      \endverb
+      \keyw{Big data analytics,Closed-loop supply chains,Demand forecasting,Machine-learning,Supply chain management}
+    \endentry
+    \entry{liao_large-scale_2018}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=ddbe1726f2e22c068fb9a6123d45255a}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Siyu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=360b28d3c81bc7790363f2ac84ad9fae}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Liutong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1e53e70e2d1a01239301b255c89fdaf6}{%
+           family={Di},
+           familyi={D\bibinitperiod},
+           given={Xuan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1ce4eb84b8441cb4f47e328910e194f7}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5b916b37931b2ae06ba4612970086916}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Jinjun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{263e70181090d3aa8bfad653d65cedac}
+      \strng{fullhash}{263e70181090d3aa8bfad653d65cedac}
+      \strng{bibnamehash}{263e70181090d3aa8bfad653d65cedac}
+      \strng{authorbibnamehash}{263e70181090d3aa8bfad653d65cedac}
+      \strng{authornamehash}{263e70181090d3aa8bfad653d65cedac}
+      \strng{authorfullhash}{263e70181090d3aa8bfad653d65cedac}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The world has seen in recent years great successes in applying deep learning ({DL}) for many application domains. Though powerful, {DL} is not easy to be used well. In this invited paper, we study an urban taxi demand forecast problem using {DL}, and we show a number of key insights in modeling a domain problem as a suitable {DL} task. We also conduct a systematic comparison of two recent deep neural networks ({DNNs}) for taxi demand prediction, i.s., the {ST}-{ResNet} and {FLC}-Net, on New York city taxi record dataset. Our experimental results show {DNNs} indeed outperform most traditional machine learning techniques, but such superior results can only be achieved with proper design of the right {DNN} architecture, where domain knowledge plays a key role.}
+      \field{booktitle}{Proceedings of the Asia and South Pacific Design Automation Conference, {ASP}-{DAC}}
+      \field{isbn}{978-1-5090-0602-1}
+      \field{title}{Large-scale short-term urban taxi demand forecasting using deep learning}
+      \field{volume}{2018-January}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{428\bibrangedash 433}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ASPDAC.2018.8297361
+      \endverb
+    \endentry
+    \entry{shi_deep_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=62257a60e83cd41294d5877cb386fccd}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Heng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ac61be29759ad593d29c986a8dd05e62}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Minghao},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0db2f67a2af4a0c032dd8513a4110838}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ran},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{987d554d9ff98b2ff1b4c503dcde712a}
+      \strng{fullhash}{987d554d9ff98b2ff1b4c503dcde712a}
+      \strng{bibnamehash}{987d554d9ff98b2ff1b4c503dcde712a}
+      \strng{authorbibnamehash}{987d554d9ff98b2ff1b4c503dcde712a}
+      \strng{authornamehash}{987d554d9ff98b2ff1b4c503dcde712a}
+      \strng{authorfullhash}{987d554d9ff98b2ff1b4c503dcde712a}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The key challenge for household load forecasting lies in the high volatility and uncertainty of load profiles. Traditional methods tend to avoid such uncertainty by load aggregation (to offset uncertainties), customer classification (to cluster uncertainties) and spectral analysis (to filter out uncertainties). This paper, for the first time, aims to directly learn the uncertainty by applying a new breed of machine learning algorithms-deep learning. However, simply adding layers in neural networks will cap the forecasting performance due to the occurrence of over-fitting. A novel pooling-based deep recurrent neural network is proposed in this paper which batches a group of customers' load profiles into a pool of inputs. Essentially the model could address the over-fitting issue by increasing data diversity and volume. This paper reports the first attempts to develop a bespoke deep learning application for household load forecasting and achieved preliminary success. The developed method is implemented on Tensorflow deep learning platform and tested on 920 smart metered customers from Ireland. Compared with the state-of-The-Art techniques in household load forecasting, the proposed method outperforms {ARIMA} by 19.5\%, {SVR} by 13.1\% and classical deep {RNN} by 6.5\% in terms of {RMSE}.}
+      \field{issn}{19493053}
+      \field{journaltitle}{{IEEE} Transactions on Smart Grid}
+      \field{number}{5}
+      \field{title}{Deep Learning for Household Load Forecasting-A Novel Pooling Deep {RNN}}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{5271\bibrangedash 5280}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TSG.2017.2686012
+      \endverb
+      \verb{file}
+      \verb Shi et al. - 2018 - Deep Learning for Household Load Forecasting-A Nov.pdf:/home/asefshahriar/Zotero/storage/2IUJVNAL/Shi et al. - 2018 - Deep Learning for Household Load Forecasting-A Nov.pdf:application/pdf
+      \endverb
+      \keyw{deep learning,Big data,load forecasting,long short-Term memory,machine learning,neural network,smart meter}
+    \endentry
+    \entry{cai_day-ahead_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8dc1b22f13e110f91e4e37e529a43a5a}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Mengmeng},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1fbb8e92e29aae0051563a30ff4eef43}{%
+           family={Pipattanasomporn},
+           familyi={P\bibinitperiod},
+           given={Manisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6df4eb9a207e59d008986da3dda165db}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Saifur},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3889e693a4e1dccf355b5ecc21fb90d9}
+      \strng{fullhash}{3889e693a4e1dccf355b5ecc21fb90d9}
+      \strng{bibnamehash}{3889e693a4e1dccf355b5ecc21fb90d9}
+      \strng{authorbibnamehash}{3889e693a4e1dccf355b5ecc21fb90d9}
+      \strng{authornamehash}{3889e693a4e1dccf355b5ecc21fb90d9}
+      \strng{authorfullhash}{3889e693a4e1dccf355b5ecc21fb90d9}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Load forecasting problems have traditionally been addressed using various statistical methods, among which autoregressive integrated moving average with exogenous inputs ({ARIMAX}) has gained the most attention as a classical time-series modeling method. Recently, the booming development of deep learning techniques make them promising alternatives to conventional data-driven approaches. While deep learning offers exceptional capability in handling complex non-linear relationships, model complexity and computation efficiency are of concern. A few papers have explored the possibility of applying deep neural networks to forecast time-series load data but only limited to system-level or single-step building-level forecasting. This study, however, aims at filling in the knowledge gap of deep learning-based techniques for day-ahead multi-step load forecasting in commercial buildings. Two classical deep neural network models, namely recurrent neural network ({RNN}) and convolutional neural network ({CNN}), have been proposed and formulated under both recursive and direct multi-step manners. Their performances are compared with the Seasonal {ARIMAX} model with regard to accuracy, computational efficiency, generalizability and robustness. Among all of the investigated deep learning techniques, the gated 24-h {CNN} model, performed in a direct multi-step manner, proves itself to have the best performance, improving the forecasting accuracy by 22.6\% compared to that of the seasonal {ARIMAX}.}
+      \field{issn}{03062619}
+      \field{journaltitle}{Applied Energy}
+      \field{title}{Day-ahead building-level load forecasts using deep learning vs. traditional time-series techniques}
+      \field{volume}{236}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1078\bibrangedash 1088}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.apenergy.2018.12.042
+      \endverb
+      \keyw{Deep learning,Gating mechanism,Seasonal {ARIMAX},Time-series building-level load forecasts}
+    \endentry
+    \entry{huber_daily_2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=980730da19b479273100a543291c1da7}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=da5c0f18267ebdbc630a55398b0e88fa}{%
+           family={Stuckenschmidt},
+           familyi={S\bibinitperiod},
+           given={Heiner},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{079a3d4802a612c69284e5836f99381e}
+      \strng{fullhash}{079a3d4802a612c69284e5836f99381e}
+      \strng{bibnamehash}{079a3d4802a612c69284e5836f99381e}
+      \strng{authorbibnamehash}{079a3d4802a612c69284e5836f99381e}
+      \strng{authornamehash}{079a3d4802a612c69284e5836f99381e}
+      \strng{authorfullhash}{079a3d4802a612c69284e5836f99381e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Demand forecasting is an important task for retailers as it is required for various operational decisions. One key challenge is to forecast demand on special days that are subject to vastly different demand patterns than on regular days. We present the case of a bakery chain with an emphasis on special calendar days, for which we address the problem of forecasting the daily demand for different product categories at the store level. Such forecasts are an input for production and ordering decisions. We treat the forecasting problem as a supervised machine learning task and provide an evaluation of different methods, including artificial neural networks and gradient-boosted decision trees. In particular, we outline and discuss the possibility of formulating a classification instead of a regression problem. An empirical comparison with established approaches reveals the superiority of machine learning methods, while classification-based approaches outperform regression-based approaches. We also found that machine learning methods not only provide more accurate forecasts but are also more suitable for applications in a large-scale demand forecasting scenario that often occurs in the retail industry.}
+      \field{issn}{01692070}
+      \field{journaltitle}{International Journal of Forecasting}
+      \field{number}{4}
+      \field{title}{Daily retail demand forecasting using machine learning with emphasis on calendric special days}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1420\bibrangedash 1438}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.ijforecast.2020.02.005
+      \endverb
+      \verb{file}
+      \verb Huber and Stuckenschmidt - 2020 - Daily retail demand forecasting using machine lear.pdf:/home/asefshahriar/Zotero/storage/UPPYFISK/Huber and Stuckenschmidt - 2020 - Daily retail demand forecasting using machine lear.pdf:application/pdf
+      \endverb
+      \keyw{Demand forecasting,Classification,Comparative studies,Decision trees,Forecasting practice,Neural networks,Regression}
+    \endentry
+    \entry{kotsiantis2006data}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3824631c80291ada0c49f9cb406e0acd}{%
+           family={Kotsiantis},
+           familyi={K\bibinitperiod},
+           given={Sotiris\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ff04e714386a10358e5f20bc2ff0afb1}{%
+           family={Kanellopoulos},
+           familyi={K\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8f1b327d5e60500b7a15ed5f646b20e8}{%
+           family={Pintelas},
+           familyi={P\bibinitperiod},
+           given={Panagiotis\bibnamedelima E},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{6cdd4ce223d57e9f850808f501cb170e}
+      \strng{fullhash}{6cdd4ce223d57e9f850808f501cb170e}
+      \strng{bibnamehash}{6cdd4ce223d57e9f850808f501cb170e}
+      \strng{authorbibnamehash}{6cdd4ce223d57e9f850808f501cb170e}
+      \strng{authornamehash}{6cdd4ce223d57e9f850808f501cb170e}
+      \strng{authorfullhash}{6cdd4ce223d57e9f850808f501cb170e}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Science}
+      \field{number}{2}
+      \field{title}{Data preprocessing for supervised leaning}
+      \field{volume}{1}
+      \field{year}{2006}
+      \field{pages}{111\bibrangedash 117}
+      \range{pages}{7}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
+

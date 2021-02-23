@@ -5,16 +5,15 @@ Due to the implications connected with sharing industry data, the real world dat
 For every ML/DL applications, several preprocessing steps are employed to process raw data. These methods include data cleaning, transforming operation, normalization, feature engineering etc. There is no single preprocessing strategy that works well on every applications. One has to find the best sequence of operations to suit his needs\cite{kotsiantis2006data}. 
 
 
-\subsection{Model Development}
+\subsection{Model Implementation}
 
-Generally, most SC forecasting problems are univariate. These univariate time series forecasting problem can be modeled as a supervised learning problems as follows:
+Generally, most SC forecasting problems are uni-variate. These uni-variate time series forecasting problem can be modeled as a supervised learning problems as follows:
 
 $$ y = f(x); \text{where $x$ is previous demand data, and $y$ is the forecast output.} $$
-Univariate time series datasets need restructuring to be modeled as a supervised learning problem. A well established method of restructuring is \textbf{windowing}. In this approach, fixed sized windows are created from previous time steps and the next immediate time step is considered as the output. These pairs of data are fed into the neural network for training. There exists variety of deep learning techniques for forecasting application. 
+Uni-variate time series datasets need restructuring to be modeled as a supervised learning problem. A well established method of restructuring is \textbf{windowing}. In this approach, fixed sized windows are created from previous time steps and the next immediate time step is considered as the output. These pairs of data are fed into the neural network for training. There exists variety of deep learning techniques for forecasting application. 
 
-\noindent The state-of-the neural network architectures include:
+\noindent The state-of-the-art neural network architectures include:
 \begin{enumerate}
-    \item{Perceptrons}
     \item{Artificial Neural Networks(ANNs)}
     \item{Convolutional Neural Networks (CNNs)}
     \item{Recurrent Neural Networks(RNNs)}
@@ -39,3 +38,11 @@ Firstly, \textbf{RMSE} and \textbf{MAPE}. These will evaluate the forecasting er
 Secondly, \textbf{data costs}. Generally DL models improve as the data volumes increases. But data collections and storage have costs connected to them. Thus the organizations have to face cost-accuracy trade-off.
 
 Finally, \textbf{overall application impact}. For a new application like this a SC has to go through many challenges. At last these implications and expectancies will be discussed. 
+
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.8]{flow-Page-1.jpg}
+    \caption{Research Methodology Flow Chart}
+    \label{fig:flowchart}
+\end{figure}

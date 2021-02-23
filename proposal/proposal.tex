@@ -5,6 +5,7 @@
 \usepackage[inline]{enumitem}
 \usepackage[bottom=0.3in]{geometry}
 \usepackage{amsmath}
+\usepackage{graphicx}
 % for 1.5 line spacing
 \usepackage{setspace}
 
@@ -20,7 +21,7 @@
 
 % set up bibliography
  \usepackage[
-   backend=bibtex,
+   backend=biber,
    minalphanames=3,
    isbn=false,
    sortcites=false,
@@ -32,6 +33,8 @@
    minbibnames=3,
    maxbibnames=99]{biblatex}
  \addbibresource{bibliography.bib}
+ 
+ 
 % for \begin{comment}
 \usepackage{verbatim}
 \newcommand{\asef}{Asef Shahriar}
@@ -79,11 +82,12 @@
                     \vspace{-1cm}
                     \includegraphics[scale=0.15]{./signature.pdf}
                 \end{minipage}
-            }
+            } \\
+            \vspace{0.7cm}
             Signature of Supervisor: \makebox[2.5in]{
                 \begin{minipage}[t]{150pt}
-                    %\vspace{-1cm}
-                    %\includegraphics[scale=0.15]{./signature.pdf}
+                    \vspace{-1cm}
+                    \includegraphics[scale=0.4]{./supervisor.pdf}
                 \end{minipage}
             }
 

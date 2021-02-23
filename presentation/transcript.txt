@@ -1,0 +1,45 @@
+Hello,
+Assalamoalikum
+Thanks the honorable committee for giving me the floor. 
+
+I am Asef Shahriar. 
+Welcome everyone to my proposal presentation for thesis. The presentation will contain the title, motivation behind the research, and the methodology I will employ in the research.
+ 
+My research is entitled as ............ Lets breakdown the keywords in the title.  
+Firstly, Demand Forecasting is the process in which historical sales data is used to develop an estimate of future customer demand.  
+Deep learning have emerged as a subset  of machine learning in the recent years. It has shown enormous potential in almost every field. 
+
+Now why I am applying the deep learning techniques for forecasting?
+
+Demand forecasting has always been a  important part of supply chain. 
+With growing competition in the market accurate forecasts is more important than ever before. Accurate forecasts result in more response, failure resiliency and ultimately to profit.
+
+On the other hand, if the forecasts are bad then the company incurs additional costs in inventory, production, and transportation. 
+
+The techniques we are currently using are based on simple arithmetic and have limited accuracy. Moreover todays supply chains are more complex....
+
+Deep learning have the potential to address these problem.
+
+The obejectives of this research are to study different dl models and evaluate their performance in forecasting demand with high variability and seasonal components.
+
+My proposed methodology is to model the problem as a supervised learning problem assuming forecast can be a function of demand in predvious period.
+
+The way deep neural network work is by learning to map the input to the output. Every neuron or node has weights and bias parameters associated with them. In forward propagation they calculate the linear funtion of each node. A non-linear activation function is used to introduce non linearity in the output before passing it to the next node. 
+
+In the backpropagation step, the parameters are update using gradient descent with respect to cost function. 
+
+My research can be divided into 3 major phases. 
+
+
+The first is associated with data. I will make use of 1 real world datasets and 1 simulated demand datasets in the research. After collection and synthesis, the data will be restructured using windowing technique. Some previous data point as independent variable and the immediate next as dependent variable. 
+
+
+The next stage is related to models. 
+
+I will study 4 state-of-the-art techniques, 2 hybrid models, and 3 other approaches. As DL models have a lot of hyperparameters, I will use randomizing policy and coarse to fine sampling for optimization. 
+
+At final step all the models will be benchmarked using 3 parameters.
+
+From my research I anticipate to see reduced error, low data and development costs, overall feasible models for practical applications.
+
+I have already completed my literature study and plan to complete data collection by the end of this month. Model implementation and benchmarking planned to be completed by march 2020. The compilation of results will be done by April. Thanks for staying with me. Please ask any query you have. 

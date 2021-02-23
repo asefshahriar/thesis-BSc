@@ -1,65 +1,15 @@
-This is BibTeX, Version 0.99d (TeX Live 2020/Arch Linux)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: proposal.aux
-The style file: biblatex.bst
-Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=8) to 20 items from 10.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Database file #1: proposal-blx.bib
-Database file #2: bibliography.bib
-Biblatex version: 3.15
-Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-You've used 22 entries,
-            6393 wiz_defined-function locations,
-            1437 strings with 45058 characters,
-and the built_in function-call counts, 231945 in all, are:
-= -- 13666
-> -- 13808
-< -- 1053
-+ -- 14716
-- -- 11256
-* -- 14825
-:= -- 31434
-add.period$ -- 0
-call.type$ -- 22
-change.case$ -- 256
-chr.to.int$ -- 658
-cite$ -- 42
-duplicate$ -- 20031
-empty$ -- 16633
-format.name$ -- 2071
-if$ -- 38472
-int.to.chr$ -- 0
-int.to.str$ -- 47
-missing$ -- 0
-newline$ -- 1123
-num.names$ -- 917
-pop$ -- 7823
-preamble$ -- 1
-purify$ -- 499
-quote$ -- 0
-skip$ -- 5218
-stack$ -- 0
-substring$ -- 26532
-swap$ -- 4768
-text.length$ -- 972
-text.prefix$ -- 0
-top$ -- 1
-type$ -- 736
-warning$ -- 0
-while$ -- 3263
-width$ -- 0
-write$ -- 1102
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'proposal.blg'
+[89] biber:330> INFO - === Mon Feb 22, 2021, 14:09:58
+[104] Biber.pm:415> INFO - Reading 'proposal.bcf'
+[180] Biber.pm:952> INFO - Found 21 citekeys in bib section 0
+[194] Biber.pm:4334> INFO - Processing section 0
+[209] Biber.pm:4523> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[216] bibtex.pm:1682> INFO - LaTeX decoding ...
+[306] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[560] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[560] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[585] bbl.pm:651> INFO - Writing 'proposal.bbl' with encoding 'UTF-8'
+[613] bbl.pm:754> INFO - Output to proposal.bbl
